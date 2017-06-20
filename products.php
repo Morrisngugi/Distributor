@@ -341,7 +341,7 @@
                   <li><a href="brand.php">Brands</a></li>
                 <li><a href="sub-brands.php">Sub-Brands</a></li>
                 <li><a href="product-type.php">Product Types</a></li>
-                <li><a href="packiging.php">Packaging</a></li>
+                <li><a href="packaging.php">Packaging</a></li>
                 <li><a href="packaging-type.php">Packaging Types</a></li>
                 <li><a href="vat-rates.php">VAT Rates</a></li>
                 </ul>

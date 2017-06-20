@@ -11,11 +11,6 @@
                 <li><a href="users.php">Users</a></li>
 
                 <li><a href="products.php">Product</a>
-
-                <ul class="nav">
-                
-
-                  </ul>
                  </li>
                  <li><a href="pricing.php">Pricing</a></li>
               </ul>
