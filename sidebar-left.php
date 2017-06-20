@@ -3,40 +3,21 @@
           <div class="am-logo"></div>
           <ul class="sidebar-elements">
             <li class="active" ><a href="index.php"><i class="icon s7-monitor"></i><span>Dashboard</span></a>
-             
             </li>
             <li class="parent"><a href="#"><i class="icon s7-diamond"></i><span>Master Data</span></a>
               <ul class="sub-menu">
-                <li><a href="users.php">Users</a>
-                </li>
+                <li><a href="clusters.php">Clusters</a></li>
+                <li><a href="entries.php">Entities</a></li>
+                <li><a href="users.php">Users</a></li>
+
                 <li><a href="products.php">Product</a>
-                </li>
-                <li><a href="brands.php">Brands</a>
-                </li>
-                <li><a href="packiging.php">Packaging</a>
-                </li>
-                <li><a href="product-type.php">Product Type</a>
-                </li>
-                <li><a href="lots.php">Lots</a>
-                </li>
-                <li><a href="sub-brands.php">Sub-Brands</a>
-                </li>
-                <li><a href="packaging-type.php">Packaging Type</a>
-                </li>
-                <li><a href="unit-of-measure.php">Unit of Measure</a>
-                </li>
-                <li><a href="vat-rates.php">VAT Rates</a>
-                </li>
-                <li><a href="custom-fields.php">Custom Fields</a>
-                </li>
-                <li><a href="metrics-definition.php">Metrics Definition</a>
-                </li>
-                <li><a href="pricing.php">Pricing</a>
-                </li>
-                <li><a href="clusters.php">Clusters</a>
-                </li>
-                <li><a href="entries.php">Entities</a>
-                </li>
+
+                <ul class="nav">
+                
+
+                  </ul>
+                 </li>
+                 <li><a href="pricing.php">Pricing</a></li>
               </ul>
             </li>
             <li class="parent"><a href="#"><i class="icon s7-graph"></i><span>Transactions</span></a>

@@ -11,11 +11,11 @@
 <!-- Begin Content  -->
 <div class="am-content">
         <div class="page-head">
-        <h2>Brands</h2>
+        <h2>Packaging</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <li><a href="#">Master Data</a></li>
-            <li class="active">Brand</li>
+            <li class="active">Packaging</li>
           </ol>
         </div>
         <div class="main-content">
@@ -24,13 +24,12 @@
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
                   <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
-                  <div class="title">Brand</div>
+                  <div class="title">Packaging</div>
                   
                 </div>
-                 
+                </br>
                 <div class="form-group">
-                  <br/>
-                   <a href="addBrand.php"
+                   <a href="addPackage.php"
                           <div class="col-md-4 col-md-offset-11">
                               <Button class="btn btn-primary" name="btn"  > Add</button>
                           </div></a>

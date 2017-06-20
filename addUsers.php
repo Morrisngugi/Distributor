@@ -8,11 +8,23 @@
 
 
 <!-- Begin Content  -->
-<div class="row">
-            <div class="col-md-12">
-              <div class="panel panel-defaultt">
-                <div class="panel-heading">
-                  <h3>Masks Types</h3>
+<div class="am-content">
+        <div class="page-head">
+        <h2>Users</h2>
+          <ol class="breadcrumb">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Master Data</a></li>
+            <li class="active">Users</li>
+          </ol>
+        </div>
+        <div class="main-content">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="widget widget-fullwidth widget-small">
+                <div class="widget-head">
+                  <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
+                  <div class="title">Add User</div>
+                  
                 </div>
                 <div class="panel-body">
                   <form action="#" novalidate="" class="form-horizontal group-border-dashed">
@@ -72,12 +84,12 @@
                     </div>
                     <div class="form-group">
                       <div class="row">
-                          <div class="col-md-1 col-md-offset-6">
-                              <Button class="btn-Success" name="btn" > Save</button>
+                          <div class="col-md-2 col-md-offset-6">
+                              <Button class="btn btn-primary" name="btn" > Save</button>
                           </div>
 
                           <div class="col-md-2 ">
-                              <Button class="btn-Default" name="btn" > Cancel</button>
+                              <Button class="btn btn-default" name="btn" > Cancel</button>
                           </div>
 
                       </div>
