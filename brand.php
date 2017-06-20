@@ -11,7 +11,7 @@
 <!-- Begin Content  -->
 <div class="am-content">
         <div class="page-head">
-          <h2>Data Tables</h2>
+        <h2>Brands</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <li><a href="#">Master Data</a></li>
@@ -27,6 +27,14 @@
                   <div class="title">Brand</div>
                   
                 </div>
+                 
+                <div class="form-group">
+                  <br/>
+                   <a href="addBrand.php"
+                          <div class="col-md-4 col-md-offset-11">
+                              <Button class="btn btn-primary" name="btn"  > Add</button>
+                          </div></a>
+                    </div>
                 <table id="table1" class="table table-striped table-hover table-fw-widget">
                   <thead>
                     <tr>
