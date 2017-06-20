@@ -13,15 +13,15 @@
                 </li>
                 <li><a href="brands.php">Brands</a>
                 </li>
-                <li><a href="packiging.php">Packaging</a>
+                <li><a href="packaging.php">Packaging</a>
                 </li>
-                <li><a href="product-type.php">Product Type</a>
+                <li><a href="productType.php">Product Type</a>
                 </li>
                 <li><a href="lots.php">Lots</a>
                 </li>
-                <li><a href="sub-brands.php">Sub-Brands</a>
+                <li><a href="Subbrands.php">Sub-Brands</a>
                 </li>
-                <li><a href="packaging-type.php">Packaging Type</a>
+                <li><a href="PackagingType.php">Packaging Type</a>
                 </li>
                 <li><a href="unit-of-measure.php">Unit of Measure</a>
                 </li>
