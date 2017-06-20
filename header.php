@@ -34,17 +34,10 @@
               </li>
             </ul>
             <ul class="nav navbar-nav am-nav-right">
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About</a></li>
-              <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle">Services <span class="angle-down s7-angle-down"></span></a>
-                <ul role="menu" class="dropdown-menu">
-                  <li><a href="#">UI Consulting</a></li>
-                  <li><a href="#">Web Development</a></li>
-                  <li><a href="#">Database Management</a></li>
-                  <li><a href="#">Seo Improvement</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Support</a></li>
+             <li>
+            <h2 style="color:white;"><b>Distibut-r</b></h2>
+            
+        </li>
             </ul>
             <ul class="nav navbar-nav navbar-right am-icons-nav">
               <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"><span class="icon s7-comment"></span></a>
