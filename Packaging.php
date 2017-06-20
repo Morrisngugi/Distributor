@@ -1,7 +1,7 @@
-
-<!-- Begin Header -->
+<!-- Begin Left Sidebar -->
 <?php include 'header.php';?>
-<!-- End Header -->
+<!-- End Left Sidebar -->
+
 
 <!-- Begin Left Sidebar -->
 <?php include 'sidebar-left.php';?>
@@ -11,10 +11,9 @@
 <!-- Begin Content  -->
 <div class="am-content">
         <div class="page-head">
-        <h2>Packaging</h2>
+          <h2>Packaging</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <li><a href="#">Master Data</a></li>
             <li class="active">Packaging</li>
           </ol>
         </div>
@@ -27,13 +26,6 @@
                   <div class="title">Packaging</div>
                   
                 </div>
-                </br>
-                <div class="form-group">
-                   <a href="addPackage.php"
-                          <div class="col-md-4 col-md-offset-11">
-                              <Button class="btn btn-primary" name="btn"  > Add</button>
-                          </div></a>
-                    </div>
                 <table id="table1" class="table table-striped table-hover table-fw-widget">
                   <thead>
                     <tr>
@@ -41,29 +33,60 @@
                       <th>Code</th>
                       <th>Name</th>
                       <th>Description</th>
-                      <th>Action</th>
+                      <th>Status</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr class="odd gradeX">
                       <td>Trident</td>
-                      <td>Internet Explorer 4.0 </td>
+                      <td>
+                        Internet
+                        Explorer 4.0
+                      </td>
                       <td>Win 95+</td>
                       <td class="center"> 4</td>
+                      
                       <td class="center"></td>
                     </tr>
-                     <tr class="odd gradeX">
+                    <tr class="even gradeC">
                       <td>Trident</td>
-                      <td>Internet Explorer 4.0 </td>
+                      <td>
+                        Internet
+                        Explorer 5.0
+                      </td>
                       <td>Win 95+</td>
-                      <td class="center"> 4</td>
+                      <td class="center">5</td>
+                      <td class="center">C</td>
                       <td class="center"></td>
                     </tr>
-                     <tr class="odd gradeX">
+                    <tr class="odd gradeA">
                       <td>Trident</td>
-                      <td>Internet Explorer 4.0 </td>
+                      <td>
+                        Internet
+                        Explorer 5.5
+                      </td>
                       <td>Win 95+</td>
-                      <td class="center"> 4</td>
+                      <td class="center">5.5</td>
+                      <td class="center">A</td>
+                      <td class="center"></td>
+                    </tr>
+                    <tr class="even gradeA">
+                      <td>Trident</td>
+                      <td>
+                        Internet
+                        Explorer 6
+                      </td>
+                      <td>Win 98+</td>
+                      <td class="center">6</td>
+                      <td class="center">A</td>
+                      <td class="center"></td>
+                    </tr>
+                    <tr class="odd gradeA">
+                      <td>Trident</td>
+                      <td>Internet Explorer 7</td>
+                      <td>Win XP SP2+</td>
+                      <td class="center">7</td>
+                      <td class="center">A</td>
                       <td class="center"></td>
                     </tr>
                   </tbody>
