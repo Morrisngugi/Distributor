@@ -25,7 +25,7 @@
                   <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
                   <div class="title">Users</div>
                   
-                </div>
+                
                 </br>
                 <div class="form-group">
                    <a href="addUsers.php"
@@ -33,7 +33,7 @@
                               <Button class="btn btn-primary" name="btn"  > Add</button>
                           </div></a>
                     </div>
-                <table id="table1" class="table table-striped table-hover table-fw-widget">
+                <table class="table table-fw-widget">
                   <thead>
                     <tr>
                       <th>First Name</th>
@@ -104,7 +104,7 @@
           </div>
           
         </div>
-      </div>
+      
 <!-- End Content -->
 
 
