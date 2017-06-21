@@ -23,7 +23,7 @@
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
                   <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
-                  <div class="title">Add Package</div>
+                  <div class="title">Add Packaging Type</div>
                   
                 </div>
                 <div class="panel-body">

@@ -11,7 +11,7 @@
               <div class="content">
                 <div class="aside-header">
                   <button data-target=".aside-nav" data-toggle="collapse" type="button" class="navbar-toggle"><span class="icon s7-angle-down"></span></button>
-                  <h2>Brand</h2>
+                  <h2>Sub Brands</h2>
                 </div>
               </div>
               <div class="aside-nav collapse">
@@ -22,7 +22,7 @@
                   <li><a href="product-type.php"><i class="icon s7-file"></i> Product Types</a></li>
                   <li><a href="Packaging.php"><i class="icon s7-star"></i> Packaging</a></li>
                   <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Types</a></li>
-                  <li><a href="#"><i class="icon s7-trash"></i> VAT Rates</a></li>
+                  <li><a href="vat-rates.php"><i class="icon s7-trash"></i> VAT Rates</a></li>
                 </ul>
               </div>
             </div>
@@ -33,8 +33,8 @@
             <div class="col-sm-12">
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
-                  <div class="title">Brand
-                  <a href="addBrand.php" class="btn btn-primary pull-right">Add</a>
+                  <div class="title">Sub Brands
+                  <a href="add-sub-brand.php" class="btn btn-primary pull-right">Add</a>
                   </div>
                   </br>
                   </div>
