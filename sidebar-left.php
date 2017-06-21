@@ -1,6 +1,6 @@
  <div class="am-left-sidebar">
         <div class="content">
-          <div class="am-logo"></div>
+          <div class="am-logo "><h1 class="sidebar-title">Distributr</h1></div>
           <ul class="sidebar-elements">
             <li class="active" ><a href="index.php"><i class="icon s7-monitor"></i><span>Dashboard</span></a>
             </li>

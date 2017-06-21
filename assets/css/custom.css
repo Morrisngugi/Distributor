@@ -1,0 +1,11 @@
+.am-top-header .navbar-header .navbar-brand , {
+    background-color: #ffffff;
+}
+.am-top-header .navbar-header .navbar-brand img{
+	display: inline-block;
+	width:100%;
+}
+.sidebar-title {
+	    margin: 10%;
+    color: #ffffff;
+}
