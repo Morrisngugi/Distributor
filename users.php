@@ -24,9 +24,6 @@
                 <div class="widget-head">
                   <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
                   <div class="title">Users</div>
-                  
-                
-                </br>
                 <div class="form-group">
                    <a href="addUsers.php"
                           <div class="col-md-4 col-md-offset-11">
