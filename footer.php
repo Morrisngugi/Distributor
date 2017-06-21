@@ -26,7 +26,8 @@
       	//initialize the javascript
       	App.init();
       	App.dashboard();
-      
+            	App.emailInbox();
+
       });
     </script>
     <script type="text/javascript">
