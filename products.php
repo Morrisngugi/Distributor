@@ -20,7 +20,7 @@
                   <li class="active"><a href="products.php"><span class="label label-primary">6</span><i class="icon s7-drawer"></i> Products</a></li>
                   <li><a href="brand.php"><i class="icon s7-mail"></i> Brands</a></li>
                   <li><a href="sub-brands.php"><i class="icon s7-portfolio"></i> Sub-Brands</a></li>
-                  <li><a href="product-type.php"><span class="label label-default">3</span><i class="icon s7-file"></i> Product Types</a></li>
+                  <li><a href="product-type.php"><i class="icon s7-file"></i> Product Types</a></li>
                   <li><a href="Packaging.php"><i class="icon s7-star"></i> Packaging</a></li>
                   <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Types</a></li>
                   <li><a href="vat-rates.php"><i class="icon s7-trash"></i> VAT Rates</a></li>

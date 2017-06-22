@@ -11,7 +11,7 @@
               <div class="content">
                 <div class="aside-header">
                   <button data-target=".aside-nav" data-toggle="collapse" type="button" class="navbar-toggle"><span class="icon s7-angle-down"></span></button>
-                  <h2>Brand</h2>
+                  <h2>Brands</h2>
                 </div>
               </div>
               <div class="aside-nav collapse">
@@ -33,16 +33,13 @@
             <div class="col-sm-12">
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
-                  <div class="title">Brand
+                  <div class="title">Brands
                   <a href="add-brand.php" class="btn btn-primary pull-right">Add</a>
                   </div>
                   </br>
                   </div>
               </div>
-			  
-			  
               <div class="widget widget-fullwidth widget-small">
-                
               <table class="table table-fw-widget">
                   <thead>
                     <tr>
@@ -77,20 +74,14 @@
                     </tr>
                   </tbody>
                 </table>
-</div>
-             
-
+                  </div>
             </div>
           </div>
         </div>
 <!-- Begin Left Sidebar -->
 <?php include 'sidebar-right.php';?>
 <!-- End Left Sidebar -->
-
-
-
     </div>
-    
 <!-- Begin Left Sidebar -->
 <?php include 'footer.php';?>
 <!-- End Left Sidebar -->
