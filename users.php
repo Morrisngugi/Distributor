@@ -24,7 +24,7 @@
                 <div class="widget-head">
                   <div class="title">Users</div>
                 <div class="form-group">
-                   <a href="addUsers.php"
+                   <a href="add-users.php"
                           <div class="col-md-4 col-md-offset-11">
                               <Button class="btn btn-primary" name="btn"  > Add</button>
                           </div></a>
