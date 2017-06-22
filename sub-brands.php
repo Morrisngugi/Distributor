@@ -1,32 +1,49 @@
-
-<?php include 'header.php';?>
-<!-- End Left Sidebar -->
-
-
+<!-- Begin Header -->
+<?php include 'header2.php';?>
+<!-- End Header  -->
 <!-- Begin Left Sidebar -->
 <?php include 'sidebar-left.php';?>
 <!-- End Left Sidebar -->
-
-
-<!-- Begin Content  -->
-<div class="am-content">
-        <div class="page-head">
-          <h2>Sub - Brands</h2>
-          <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
-            <li class="active">Sub - Brands</li>
-          </ol>
-        </div>
-        <div class="main-content">
+      <div class="am-content am-no-padding">
+        <aside class="page-aside">
+          <div class="am-scroller nano">
+            <div class="nano-content">
+              <div class="content">
+                <div class="aside-header">
+                  <button data-target=".aside-nav" data-toggle="collapse" type="button" class="navbar-toggle"><span class="icon s7-angle-down"></span></button>
+                  <h2>Sub Brands</h2>
+                </div>
+              </div>
+              <div class="aside-nav collapse">
+               <ul class="nav">
+                  <li><a href="products.php"><i class="icon s7-drawer"></i> Products</a></li>
+                  <li><a href="brand.php"><i class="icon s7-mail"></i> Brands</a></li>
+                  <li class="active"><a href="sub-brands.php"><span class="label label-primary">6</span><i class="icon s7-portfolio"></i> Sub-Brands</a></li>
+                  <li><a href="product-type.php"><i class="icon s7-file"></i> Product Types</a></li>
+                  <li><a href="Packaging.php"><i class="icon s7-star"></i> Packaging</a></li>
+                  <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Types</a></li>
+                  <li><a href="vat-rates.php"><i class="icon s7-trash"></i> VAT Rates</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </aside>
+         <div class="main-content">
           <div class="row">
             <div class="col-sm-12">
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
-                  <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
-                  <div class="title">Sub - Brands</div>
-                  
-                </div>
-                <table id="table1" class="table table-striped table-hover table-fw-widget">
+                  <div class="title">Sub Brands
+                  <a href="add-sub-brand.php" class="btn btn-primary pull-right">Add</a>
+                  </div>
+                  </br>
+                  </div>
+              </div>
+			  
+			  
+              <div class="widget widget-fullwidth widget-small">
+                
+              <table class="table table-fw-widget">
                   <thead>
                     <tr>
                       <th>ID</th>
@@ -92,23 +109,20 @@
                     </tr>
                   </tbody>
                 </table>
-              </div>
+</div>
+             
+
             </div>
           </div>
-          
         </div>
-      </div>
-<!-- End Content -->
-<center>
-    <a href="addsubbrands.php" class="btn btn-default">Add Sub-Brands</a>
-</center>
-
-<!-- Right Sidebar -->
+<!-- Begin Left Sidebar -->
 <?php include 'sidebar-right.php';?>
-<!-- End Right Sidebar -->
+<!-- End Left Sidebar -->
 
-</div>
 
-<!-- Begin Footer -->
+
+    </div>
+    
+<!-- Begin Left Sidebar -->
 <?php include 'footer.php';?>
-<!-- End Footer -->
+<!-- End Left Sidebar -->

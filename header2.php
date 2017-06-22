@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -14,14 +12,21 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" type="text/css" href="assets/lib/theme-switcher/theme-switcher.min.css"/>
-    <link rel="stylesheet" type="text/css" href="assets/lib/jquery.vectormap/jquery-jvectormap-1.2.2.css"/><link type="text/css" href="assets/css/style.css" rel="stylesheet">  </head>
+    <link rel="stylesheet" type="text/css" href="assets/lib/jquery.vectormap/jquery-jvectormap-1.2.2.css"/>
+    <link type="text/css" href="assets/css/style.css" rel="stylesheet">  </head>
+    <link type="text/css" href="assets/css/custom.css" rel="stylesheet">  </head>
   <body>
     <div class="am-wrapper am-aside am-fixed-sidebar">
       <nav class="navbar navbar-default navbar-fixed-top am-top-header">
         <div class="container-fluid">
           <div class="navbar-header">
-            <div class="page-title"><span>Dashboard</span></div><a href="#" class="am-toggle-left-sidebar navbar-toggle collapsed"><span class="icon-bar"><span></span><span></span><span></span></span></a><a href="index.html" class="navbar-brand"></a>
+            <div class="page-title">
+
+            <span>Dashboard</span></div><a href="#" class="am-toggle-left-sidebar navbar-toggle collapsed"><span class="icon-bar"><span></span><span></span><span></span></span>
+            </a>
+            <a href="index.html" class="navbar-brand"><img class="logo-main" src="assets/img/logo.png"></a>
           </div><a href="#" class="am-toggle-right-sidebar"><span class="icon s7-menu2"></span></a><a href="#" data-toggle="collapse" data-target="#am-navbar-collapse" class="am-toggle-top-header-menu collapsed"><span class="icon s7-angle-down"></span></a>
+         
           <div id="am-navbar-collapse" class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-right am-user-nav">
               <li class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="dropdown-toggle"><img src="assets/img/avatar.jpg"><span class="user-name">Samantha Distributr</span><span class="angle-down s7-angle-down"></span></a>

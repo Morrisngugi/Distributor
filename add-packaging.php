@@ -10,11 +10,11 @@
 <!-- Begin Content  -->
 <div class="am-content">
         <div class="page-head">
-          <h2>Brands</h2>
+          <h2>Packaging</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <li><a href="#">Master Data</a></li>
-            <li class="active">Brand</li>
+            <li class="active">Packaging</li>
           </ol>
         </div>
         <div class="main-content">
@@ -22,8 +22,7 @@
             <div class="col-sm-12">
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
-                  <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
-                  <div class="title">Add Brand</div>
+                  <div class="title">Add Packaging</div>
                   
                 </div>
                 <div class="panel-body">

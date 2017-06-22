@@ -1,7 +1,6 @@
-
+<!-- Begin Header -->
 <?php include 'header.php';?>
-<!-- End Left Sidebar -->
-
+<!-- End Header -->
 
 <!-- Begin Left Sidebar -->
 <?php include 'sidebar-left.php';?>
@@ -11,10 +10,11 @@
 <!-- Begin Content  -->
 <div class="am-content">
         <div class="page-head">
-          <h2>Add Product Type</h2>
+          <h2>Packaging</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <li class="active">Add Product Type</li>
+            <li><a href="#">Master Data</a></li>
+            <li class="active">Packaging</li>
           </ol>
         </div>
         <div class="main-content">
@@ -22,41 +22,38 @@
             <div class="col-sm-12">
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
-                  <div class="tools"><span class="icon s7-upload"></span><span class="icon s7-edit"></span><span class="icon s7-close"></span></div>
-                  <div class="title">Product Type</div>
-
-<div class="row">
-            <div class="col-md-12">
-              <div class="panel panel-defaultt">
-                
+                  <div class="title">Add Packaging Type</div>
+                  
+                </div>
                 <div class="panel-body">
                   <form action="#" novalidate="" class="form-horizontal group-border-dashed">
                     <div class="form-group">
                       <label class="col-sm-3 control-label">Code</label>
                       <div class="col-sm-6">
-                        <input type="text" data-mask="date" placeholder="Enter First Name" class="form-control">
+                        <input type="text" data-mask="date" placeholder="" class="form-control">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">Name</label>
                       <div class="col-sm-6">
-                        <input type="text" data-mask="date" placeholder=" Enter Surname" class="form-control">
+                        <input type="text" data-mask="date" placeholder="" class="form-control">
                       </div>
                     </div>
                     <div class="form-group">
                       <label class="col-sm-3 control-label">Description</label>
                       <div class="col-sm-6">
-                        <input type="date" data-mask="Calender" placeholder="" class="form-control">
+                        <input type="textarea" data-mask="phone" placeholder="" class="form-control">
                       </div>
                     </div>
+                  
                     <div class="form-group">
                       <div class="row">
-                          <div class="col-md-1 col-md-offset-6">
-                              <Button class="btn-Success" name="btn" > Save</button>
+                          <div class="col-md-2 col-md-offset-6">
+                              <Button class="btn btn-primary" name="btn" > Save</button>
                           </div>
 
                           <div class="col-md-2 ">
-                              <Button class="btn-Default" name="btn" > Cancel</button>
+                              <Button class="btn btn-default" name="btn" > Cancel</button>
                           </div>
 
                       </div>
