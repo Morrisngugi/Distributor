@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home.html",
-  "generationDate":new Date(1498121527279.75),
+  "generationDate":new Date(1498124072809.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -106,7 +106,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u546.png"}}],
+                    "normal~":"images/add_product/u543.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -176,7 +176,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u548.png"}}],
+                    "normal~":"images/add_product/u545.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",

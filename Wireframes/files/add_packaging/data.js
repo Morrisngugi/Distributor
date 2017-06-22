@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"add_packaging.html",
-  "generationDate":new Date(1498121518727.85),
+  "generationDate":new Date(1498124065079.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -6490,7 +6490,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u546.png"}}],
+                    "normal~":"images/add_product/u543.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -6560,7 +6560,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u548.png"}}],
+                    "normal~":"images/add_product/u545.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -8587,10 +8587,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Brand in Current Window",
+                                "description":"Open Sub-brands in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"brand.html",
+                                  "url":"sub-brands.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -8789,10 +8789,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Type in Current Window",
+                                "description":"Open Brand in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_type.html",
+                                  "url":"brand.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -8967,9 +8967,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Unit of Measure in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"unit_of_measure.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -9055,10 +9056,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Sub-brands in Current Window",
+                                "description":"Open Product Type in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"sub-brands.html",
+                                  "url":"product_type.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -9233,9 +9234,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Product Custom Fields in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"product_custom_fields.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -9313,21 +9315,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -9491,21 +9478,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -9588,10 +9560,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Custom Fields in Current Window",
+                                "description":"Open VAT Rates in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_custom_fields.html",
+                                  "url":"vat_rates.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,

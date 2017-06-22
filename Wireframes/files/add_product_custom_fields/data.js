@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"add_product_custom_fields.html",
-  "generationDate":new Date(1498121525851.78),
+  "generationDate":new Date(1498124071476.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1786,7 +1786,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u13.png"}},
+                "normal~":"images/add_product_custom_fields/u11.png"}},
 {
               "id":"487174a540fd44f29cfa5be10fe9c619",
               "label":"",
@@ -1827,7 +1827,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u21.png"}},
+                "normal~":"images/add_product_custom_fields/u19.png"}},
 {
               "id":"17ab4ff68f0144cfb68055349fa9cfd0",
               "label":"",
@@ -1874,7 +1874,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u45.png"}},
+                "normal~":"images/add_product_custom_fields/u27.png"}},
 {
               "id":"04472d5c96de4de29b6f81a82c97d4f4",
               "label":"",
@@ -1915,7 +1915,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u21.png"}},
+                "normal~":"images/add_product_custom_fields/u19.png"}},
 {
               "id":"09720033c8d9486c98f3d37bbe82e9e3",
               "label":"",
@@ -1962,7 +1962,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u45.png"}},
+                "normal~":"images/add_product_custom_fields/u27.png"}},
 {
               "id":"31b6a0f68f0f4808833992b89eeef82e",
               "label":"",
@@ -2003,7 +2003,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u53.png"}},
+                "normal~":"images/add_product_custom_fields/u51.png"}},
 {
               "id":"8f4df8213e984c8482927471c75dd1cb",
               "label":"",
@@ -2050,7 +2050,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u45.png"}},
+                "normal~":"images/add_product_custom_fields/u27.png"}},
 {
               "id":"2af45f4ea86344fb8d5de35fb9c55ccb",
               "label":"",
@@ -2091,7 +2091,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u21.png"}},
+                "normal~":"images/add_product_custom_fields/u19.png"}},
 {
               "id":"083ce93e1b744fbb96f0452d853dd728",
               "label":"",
@@ -2138,7 +2138,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u45.png"}},
+                "normal~":"images/add_product_custom_fields/u27.png"}},
 {
               "id":"e8fafa49a3434916905f4b4c9f282ebd",
               "label":"",
@@ -2179,7 +2179,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u21.png"}},
+                "normal~":"images/add_product_custom_fields/u19.png"}},
 {
               "id":"f7020f84a1db4e65a536ffc06ee684e1",
               "label":"",
@@ -2226,7 +2226,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u45.png"}},
+                "normal~":"images/add_product_custom_fields/u27.png"}},
 {
               "id":"724c82cf2e764219b01e060399ee2061",
               "label":"",
@@ -2267,7 +2267,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u21.png"}},
+                "normal~":"images/add_product_custom_fields/u19.png"}},
 {
               "id":"2ce1b316e7794912bb39a883ac3c2cc6",
               "label":"",
@@ -2314,7 +2314,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u45.png"}},
+                "normal~":"images/add_product_custom_fields/u27.png"}},
 {
               "id":"a4f55da5373543e78f32a3ec4b2ae25b",
               "label":"",
@@ -2355,7 +2355,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u21.png"}},
+                "normal~":"images/add_product_custom_fields/u19.png"}},
 {
               "id":"844c1c41af7a408d839ea08d552650f5",
               "label":"",
@@ -2402,7 +2402,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u45.png"}},
+                "normal~":"images/add_product_custom_fields/u27.png"}},
 {
               "id":"34ddbdde69dd41568424bb46d76c2bae",
               "label":"",
@@ -2443,7 +2443,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u21.png"}},
+                "normal~":"images/add_product_custom_fields/u19.png"}},
 {
               "id":"d01b829fb02747bda52b4d835d56c4ae",
               "label":"",
@@ -2490,7 +2490,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/product/u141.png"}},
+                "normal~":"images/add_product_custom_fields/u139.png"}},
 {
               "id":"e04d466a27224df5bd59d547f9df1d58",
               "label":"",
@@ -4772,7 +4772,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u546.png"}}],
+                    "normal~":"images/add_product/u543.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -4842,7 +4842,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u548.png"}}],
+                    "normal~":"images/add_product/u545.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -6869,10 +6869,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Brand in Current Window",
+                                "description":"Open Sub-brands in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"brand.html",
+                                  "url":"sub-brands.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -7071,10 +7071,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Type in Current Window",
+                                "description":"Open Brand in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_type.html",
+                                  "url":"brand.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -7249,9 +7249,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Unit of Measure in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"unit_of_measure.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -7337,10 +7338,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Sub-brands in Current Window",
+                                "description":"Open Product Type in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"sub-brands.html",
+                                  "url":"product_type.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -7515,9 +7516,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Product Custom Fields in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"product_custom_fields.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -7595,21 +7597,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -7773,21 +7760,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -7870,10 +7842,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Custom Fields in Current Window",
+                                "description":"Open VAT Rates in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_custom_fields.html",
+                                  "url":"vat_rates.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,

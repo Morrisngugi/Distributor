@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"add_entities.html",
-  "generationDate":new Date(1498121527110.63),
+  "generationDate":new Date(1498124072678.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -274,7 +274,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u13.png"}},
+                "normal~":"images/add_entities/u11.png"}},
 {
               "id":"84c2a060db90478eb63e67099633fab6",
               "label":"",
@@ -315,7 +315,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u25.png"}},
+                "normal~":"images/add_entities/u25.png"}},
 {
               "id":"6805312925c1433aa7600c5bbb6ae567",
               "label":"",
@@ -362,7 +362,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u41.png"}},
+                "normal~":"images/add_entities/u39.png"}},
 {
               "id":"a3486d39405944d4b88b0b4fa94d1b8e",
               "label":"",
@@ -403,7 +403,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u25.png"}},
+                "normal~":"images/add_entities/u25.png"}},
 {
               "id":"1779200c78d243c987d2bb6ee0b3b382",
               "label":"",
@@ -444,7 +444,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u25.png"}},
+                "normal~":"images/add_entities/u25.png"}},
 {
               "id":"94ee875887984265b85cc9089272ac10",
               "label":"",
@@ -491,7 +491,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u61.png"}},
+                "normal~":"images/add_entities/u67.png"}},
 {
               "id":"a4052cce18a0498eb11b060560c8c59f",
               "label":"",
@@ -538,7 +538,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u61.png"}},
+                "normal~":"images/add_entities/u67.png"}},
 {
               "id":"bd2133fa262d408cbe65d6baeed16f81",
               "label":"",
@@ -579,7 +579,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u73.png"}},
+                "normal~":"images/add_entities/u81.png"}},
 {
               "id":"ae2b7166f9b748cd836f15fe96beebdc",
               "label":"",
@@ -626,7 +626,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u61.png"}},
+                "normal~":"images/add_entities/u67.png"}},
 {
               "id":"450d51691053405f87d2ac0d0fd06006",
               "label":"",
@@ -667,7 +667,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u25.png"}},
+                "normal~":"images/add_entities/u25.png"}},
 {
               "id":"2d716d6a09cc4387a3e696b6ad75784e",
               "label":"",
@@ -714,7 +714,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u61.png"}},
+                "normal~":"images/add_entities/u67.png"}},
 {
               "id":"bb9b99fbcbcb40b18cb0621f5264f81f",
               "label":"",
@@ -755,7 +755,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u25.png"}},
+                "normal~":"images/add_entities/u25.png"}},
 {
               "id":"9eb8ac16aba248d68fd00d686e6152b6",
               "label":"",
@@ -802,7 +802,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u61.png"}},
+                "normal~":"images/add_entities/u67.png"}},
 {
               "id":"99845f1257c44c41bd45ff754f6934f8",
               "label":"",
@@ -843,7 +843,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u25.png"}},
+                "normal~":"images/add_entities/u25.png"}},
 {
               "id":"ba8c36234a3c434f8934bbf20afe9f7f",
               "label":"",
@@ -890,7 +890,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u61.png"}},
+                "normal~":"images/add_entities/u67.png"}},
 {
               "id":"5a7896f2c3db4ce28f6d385343cbf881",
               "label":"",
@@ -931,7 +931,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u25.png"}},
+                "normal~":"images/add_entities/u25.png"}},
 {
               "id":"961b66382fc14bc28d4fdcfda823d72b",
               "label":"",
@@ -978,7 +978,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/unit_of_measure/u205.png"}},
+                "normal~":"images/add_entities/u235.png"}},
 {
               "id":"e04d466a27224df5bd59d547f9df1d58",
               "label":"",
@@ -1033,7 +1033,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u15.png"}},
+                "normal~":"images/add_entities/u13.png"}},
 {
               "id":"c2318d3345164a7580cc7e7d147b0710",
               "label":"",
@@ -1074,7 +1074,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u29.png"}},
+                "normal~":"images/add_entities/u27.png"}},
 {
               "id":"22aeefc0413645319a2811d5b28d89f3",
               "label":"",
@@ -1121,7 +1121,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u43.png"}},
+                "normal~":"images/add_entities/u41.png"}},
 {
               "id":"2c1d982d428c48d089287d45d03453a1",
               "label":"",
@@ -1162,7 +1162,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u29.png"}},
+                "normal~":"images/add_entities/u27.png"}},
 {
               "id":"d341f901c08049178f097d8302add1de",
               "label":"",
@@ -1209,7 +1209,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u71.png"}},
+                "normal~":"images/add_entities/u69.png"}},
 {
               "id":"1759284579c24f89939bc4601f5161fc",
               "label":"",
@@ -1250,7 +1250,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u85.png"}},
+                "normal~":"images/add_entities/u83.png"}},
 {
               "id":"ed7ebc58ec774e2aa6a1cad301d53884",
               "label":"",
@@ -1297,7 +1297,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u71.png"}},
+                "normal~":"images/add_entities/u69.png"}},
 {
               "id":"88c9552945f64ff388811519aed55f68",
               "label":"",
@@ -1338,7 +1338,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u29.png"}},
+                "normal~":"images/add_entities/u27.png"}},
 {
               "id":"43178ba310b64923832b4a90103ecdce",
               "label":"",
@@ -1385,7 +1385,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u71.png"}},
+                "normal~":"images/add_entities/u69.png"}},
 {
               "id":"87b6a0fd268e460688787ef54cc0b5ea",
               "label":"",
@@ -1426,7 +1426,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u29.png"}},
+                "normal~":"images/add_entities/u27.png"}},
 {
               "id":"c7a348e9256941d1919a2dcb21fcb60e",
               "label":"",
@@ -1473,7 +1473,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u71.png"}},
+                "normal~":"images/add_entities/u69.png"}},
 {
               "id":"8ed971f510d14066878d929bf24637d0",
               "label":"",
@@ -1514,7 +1514,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u29.png"}},
+                "normal~":"images/add_entities/u27.png"}},
 {
               "id":"e1243bbb289748a08318a18a9b34b088",
               "label":"",
@@ -1561,7 +1561,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u71.png"}},
+                "normal~":"images/add_entities/u69.png"}},
 {
               "id":"e401b3e5d8624285bd1c1909bae7866a",
               "label":"",
@@ -1602,7 +1602,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u29.png"}},
+                "normal~":"images/add_entities/u27.png"}},
 {
               "id":"ad7b904632934b139541518ae99e6a27",
               "label":"",
@@ -1649,7 +1649,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u71.png"}},
+                "normal~":"images/add_entities/u69.png"}},
 {
               "id":"0d7af704bc4b44e3974dc7c682567fec",
               "label":"",
@@ -1690,7 +1690,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u29.png"}},
+                "normal~":"images/add_entities/u27.png"}},
 {
               "id":"07ac0d687e394abaad1210a4bd72150e",
               "label":"",
@@ -1737,7 +1737,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u239.png"}},
+                "normal~":"images/add_entities/u237.png"}},
 {
               "id":"ef17eac4b2124b9686c6330ed42559b1",
               "label":"",
@@ -1792,7 +1792,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u17.png"}},
+                "normal~":"images/add_entities/u15.png"}},
 {
               "id":"4532384382564c7fb9a58a81e2532294",
               "label":"",
@@ -1833,7 +1833,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u31.png"}},
+                "normal~":"images/add_entities/u29.png"}},
 {
               "id":"19692d1007c34412890089620cde2c9a",
               "label":"",
@@ -1880,7 +1880,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u45.png"}},
+                "normal~":"images/add_entities/u43.png"}},
 {
               "id":"2bf49f5db18d4f768ee16982eaa0bbd0",
               "label":"",
@@ -1921,7 +1921,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u31.png"}},
+                "normal~":"images/add_entities/u29.png"}},
 {
               "id":"0cf88bca19de4400ab8a12cf1ddafc2f",
               "label":"",
@@ -1968,7 +1968,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u73.png"}},
+                "normal~":"images/add_entities/u71.png"}},
 {
               "id":"53d86cb5f9664ae28be9515aa1444092",
               "label":"",
@@ -2009,7 +2009,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u87.png"}},
+                "normal~":"images/add_entities/u85.png"}},
 {
               "id":"a92b6dc60df2462fabd17cf7af7e3671",
               "label":"",
@@ -2056,7 +2056,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u73.png"}},
+                "normal~":"images/add_entities/u71.png"}},
 {
               "id":"15fb330a81ac47bb88497ab8b0231d04",
               "label":"",
@@ -2097,7 +2097,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u31.png"}},
+                "normal~":"images/add_entities/u29.png"}},
 {
               "id":"73624d0b08f846259d3c5464c1c89a66",
               "label":"",
@@ -2144,7 +2144,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u73.png"}},
+                "normal~":"images/add_entities/u71.png"}},
 {
               "id":"00d505a24dd44034a841809774a546dc",
               "label":"",
@@ -2185,7 +2185,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u31.png"}},
+                "normal~":"images/add_entities/u29.png"}},
 {
               "id":"9f74ce514cd74f4a91918a43d30066d8",
               "label":"",
@@ -2232,7 +2232,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u73.png"}},
+                "normal~":"images/add_entities/u71.png"}},
 {
               "id":"d50fcf101d8c4bc68af0fab0f369dbf5",
               "label":"",
@@ -2273,7 +2273,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u31.png"}},
+                "normal~":"images/add_entities/u29.png"}},
 {
               "id":"de7ff93bd09146698ab81cb79e836420",
               "label":"",
@@ -2320,7 +2320,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u73.png"}},
+                "normal~":"images/add_entities/u71.png"}},
 {
               "id":"5e6ff1dcb8ec415a980b20816a532073",
               "label":"",
@@ -2361,7 +2361,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u31.png"}},
+                "normal~":"images/add_entities/u29.png"}},
 {
               "id":"c949e315c127410892211acce4457601",
               "label":"",
@@ -2408,7 +2408,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u73.png"}},
+                "normal~":"images/add_entities/u71.png"}},
 {
               "id":"0a1b802c2b024dba847ce56fe79765b6",
               "label":"",
@@ -2449,7 +2449,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u31.png"}},
+                "normal~":"images/add_entities/u29.png"}},
 {
               "id":"0ff7968bb5f84ef3be2f111f7db7a78c",
               "label":"",
@@ -2496,7 +2496,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u241.png"}},
+                "normal~":"images/add_entities/u239.png"}},
 {
               "id":"18a192f852f74ebfa5d39f1066cd4ad2",
               "label":"",
@@ -2639,7 +2639,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u47.png"}},
+                "normal~":"images/add_entities/u45.png"}},
 {
               "id":"7646dfbe57fe42d7889ecfd4ecde4d68",
               "label":"",
@@ -3398,7 +3398,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u47.png"}},
+                "normal~":"images/add_entities/u45.png"}},
 {
               "id":"c2adfcfed25644ffa7cc096f25d1825e",
               "label":"",
@@ -4151,7 +4151,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u39.png"}},
+                "normal~":"images/add_entities/u37.png"}},
 {
               "id":"6c021a0426c6489396ed5edac4401fc3",
               "label":"",
@@ -4822,7 +4822,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u23.png"}},
+                "normal~":"images/add_entities/u21.png"}},
 {
               "id":"6ea46032c0e7431ba3899578eea006df",
               "label":"",
@@ -4863,7 +4863,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u37.png"}},
+                "normal~":"images/add_entities/u35.png"}},
 {
               "id":"af2e0b8f18a64deab38d0cf7f45e3eb4",
               "label":"",
@@ -4910,7 +4910,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u51.png"}},
+                "normal~":"images/add_entities/u49.png"}},
 {
               "id":"b698ee7f73504d33919f3b28ffe159c5",
               "label":"",
@@ -4951,7 +4951,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u37.png"}},
+                "normal~":"images/add_entities/u35.png"}},
 {
               "id":"18c6bc705a5e421bb72978cffafdde87",
               "label":"",
@@ -4998,7 +4998,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u79.png"}},
+                "normal~":"images/add_entities/u77.png"}},
 {
               "id":"1aee9b9a26b149bfa533c02151604d63",
               "label":"",
@@ -5039,7 +5039,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u93.png"}},
+                "normal~":"images/add_entities/u91.png"}},
 {
               "id":"cf0978efb1fc42468625ff22b43a99dd",
               "label":"",
@@ -5086,7 +5086,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u79.png"}},
+                "normal~":"images/add_entities/u77.png"}},
 {
               "id":"34e82a24ea034a959502f0656c05a5f9",
               "label":"",
@@ -5127,7 +5127,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u37.png"}},
+                "normal~":"images/add_entities/u35.png"}},
 {
               "id":"e7c50768db2e41fd8e91ee790f53b5f4",
               "label":"",
@@ -5174,7 +5174,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u79.png"}},
+                "normal~":"images/add_entities/u77.png"}},
 {
               "id":"a678a5f336ac4a43bf9ce1faeabbf47d",
               "label":"",
@@ -5215,7 +5215,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u37.png"}},
+                "normal~":"images/add_entities/u35.png"}},
 {
               "id":"94df1600a396454fb2fe8df9e67a1e96",
               "label":"",
@@ -5262,7 +5262,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u79.png"}},
+                "normal~":"images/add_entities/u77.png"}},
 {
               "id":"42460432b01d404b9e624d52f69675f0",
               "label":"",
@@ -5303,7 +5303,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u37.png"}},
+                "normal~":"images/add_entities/u35.png"}},
 {
               "id":"48b77233980a40fba4f09ac9729b06d7",
               "label":"",
@@ -5350,7 +5350,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u79.png"}},
+                "normal~":"images/add_entities/u77.png"}},
 {
               "id":"5d4aa7da1fb84bc6a18019134776237b",
               "label":"",
@@ -5391,7 +5391,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u37.png"}},
+                "normal~":"images/add_entities/u35.png"}},
 {
               "id":"f9719ef025ea4acf97ceca89a364a4c6",
               "label":"",
@@ -5438,7 +5438,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u79.png"}},
+                "normal~":"images/add_entities/u77.png"}},
 {
               "id":"c721f023964042378ec71f2a1845a228",
               "label":"",
@@ -5479,7 +5479,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u37.png"}},
+                "normal~":"images/add_entities/u35.png"}},
 {
               "id":"b128c4d08e564667a3bf32638643a1bf",
               "label":"",
@@ -5526,7 +5526,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/entities/u247.png"}}]},
+                "normal~":"images/add_entities/u245.png"}}]},
 {
           "id":"fe22dd39df10487597d5b1031f24bdb5",
           "label":"",
@@ -5870,7 +5870,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/entities/u277.png"}},
+            "normal~":"images/entities/u209.png"}},
 {
           "id":"e127a51e5ea3438093f370711134da1a",
           "label":"",
@@ -7601,7 +7601,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u546.png"}}],
+                    "normal~":"images/add_product/u543.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -7671,7 +7671,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/add_product/u548.png"}}],
+                    "normal~":"images/add_product/u545.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -9698,10 +9698,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Brand in Current Window",
+                                "description":"Open Sub-brands in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"brand.html",
+                                  "url":"sub-brands.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -9900,10 +9900,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Type in Current Window",
+                                "description":"Open Brand in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_type.html",
+                                  "url":"brand.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -10078,9 +10078,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Unit of Measure in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"unit_of_measure.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -10166,10 +10167,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Sub-brands in Current Window",
+                                "description":"Open Product Type in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"sub-brands.html",
+                                  "url":"product_type.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -10344,9 +10345,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Product Custom Fields in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"product_custom_fields.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -10424,21 +10426,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -10602,21 +10589,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -10699,10 +10671,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Custom Fields in Current Window",
+                                "description":"Open VAT Rates in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_custom_fields.html",
+                                  "url":"vat_rates.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,

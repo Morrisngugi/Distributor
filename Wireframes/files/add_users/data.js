@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"add_users.html",
-  "generationDate":new Date(1498121512862.8),
+  "generationDate":new Date(1498124059524.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -9107,7 +9107,7 @@
                     "fontSize":"13px",
                     "location":{
                       "x":79,
-                      "y":262},
+                      "y":254},
                     "size":{
                       "width":58,
                       "height":20}},
@@ -9126,7 +9126,7 @@
                         "fontSize":"13px",
                         "location":{
                           "x":79,
-                          "y":262},
+                          "y":254},
                         "size":{
                           "width":58,
                           "height":20}},
@@ -9146,7 +9146,7 @@
                     "fontSize":"13px",
                     "location":{
                       "x":79,
-                      "y":350},
+                      "y":345},
                     "size":{
                       "width":106,
                       "height":20}},
@@ -9165,7 +9165,7 @@
                         "fontSize":"13px",
                         "location":{
                           "x":79,
-                          "y":350},
+                          "y":345},
                         "size":{
                           "width":106,
                           "height":20}},
@@ -9240,7 +9240,7 @@
                   "style":{
                     "location":{
                       "x":89,
-                      "y":291},
+                      "y":283},
                     "size":{
                       "width":480,
                       "height":40}},
@@ -9257,7 +9257,7 @@
                   "style":{
                     "location":{
                       "x":89,
-                      "y":380},
+                      "y":375},
                     "size":{
                       "width":480,
                       "height":40}},
@@ -9275,7 +9275,7 @@
                     "fontSize":"13px",
                     "location":{
                       "x":79,
-                      "y":440},
+                      "y":435},
                     "size":{
                       "width":57,
                       "height":20}},
@@ -9294,7 +9294,7 @@
                         "fontSize":"13px",
                         "location":{
                           "x":79,
-                          "y":440},
+                          "y":435},
                         "size":{
                           "width":57,
                           "height":20}},
@@ -9313,7 +9313,7 @@
                   "style":{
                     "location":{
                       "x":89,
-                      "y":470},
+                      "y":465},
                     "size":{
                       "width":480,
                       "height":40}},
@@ -10220,7 +10220,7 @@
                     "fontSize":"13px",
                     "location":{
                       "x":79,
-                      "y":173},
+                      "y":166},
                     "size":{
                       "width":22,
                       "height":20}},
@@ -10239,7 +10239,7 @@
                         "fontSize":"13px",
                         "location":{
                           "x":79,
-                          "y":173},
+                          "y":166},
                         "size":{
                           "width":22,
                           "height":20}},
@@ -10258,7 +10258,7 @@
                   "style":{
                     "location":{
                       "x":89,
-                      "y":200},
+                      "y":193},
                     "size":{
                       "width":480,
                       "height":40}},
@@ -12290,10 +12290,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Brand in Current Window",
+                                "description":"Open Sub-brands in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"brand.html",
+                                  "url":"sub-brands.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -12492,10 +12492,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Type in Current Window",
+                                "description":"Open Brand in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_type.html",
+                                  "url":"brand.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -12670,9 +12670,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Unit of Measure in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"unit_of_measure.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -12758,10 +12759,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Sub-brands in Current Window",
+                                "description":"Open Product Type in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"sub-brands.html",
+                                  "url":"product_type.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -12936,9 +12937,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Link in Current Window",
+                                "description":"Open Product Custom Fields in Current Window",
                                 "target":{
                                   "targetType":"page",
+                                  "url":"product_custom_fields.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
@@ -13016,21 +13018,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -13194,21 +13181,6 @@
                             "color":0xFFFFFFFF}},
                         "adaptiveStyles":{
 }}],
-                    "interactionMap":{
-                      "onClick":{
-                        "description":"OnClick",
-                        "cases":[{
-                            "description":"Case 1",
-                            "isNewIfGroup":false,
-                            "actions":[{
-                                "action":"linkWindow",
-                                "description":"Open Product in Current Window",
-                                "target":{
-                                  "targetType":"page",
-                                  "url":"product.html",
-                                  "includeVariables":true},
-                                "linkType":"current"}]}]}},
-                    "tabbable":true,
                     "images":{
                       "normal~":"resources/images/transparent.gif",
                       "mouseOver~":"images/dashboard/u150_mouseOver.png"}},
@@ -13291,10 +13263,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"Open Product Custom Fields in Current Window",
+                                "description":"Open VAT Rates in Current Window",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"product_custom_fields.html",
+                                  "url":"vat_rates.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
