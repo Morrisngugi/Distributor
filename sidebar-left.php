@@ -7,7 +7,7 @@
             <li class="parent"><a href="#"><i class="icon s7-diamond"></i><span>Master Data</span></a>
               <ul class="sub-menu">
                 <li><a href="clusters.php">Clusters</a></li>
-                <li><a href="entries.php">Entities</a></li>
+                <li><a href="entities.php">Entities</a></li>
                 <li><a href="users.php">Users</a></li>
 
                 <li><a href="products.php">Product</a>
