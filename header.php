@@ -12,8 +12,10 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" type="text/css" href="assets/lib/theme-switcher/theme-switcher.min.css"/>
+    
     <link rel="stylesheet" type="text/css" href="assets/lib/jquery.vectormap/jquery-jvectormap-1.2.2.css"/>
     <link type="text/css" href="assets/css/style.css" rel="stylesheet">  </head>
+    <link type="text/css" href="assets/css/themes/theme-google.css" rel="stylesheet">  </head>
     <link type="text/css" href="assets/css/custom.css" rel="stylesheet">  </head>
   <body>
     <div class="am-wrapper">
