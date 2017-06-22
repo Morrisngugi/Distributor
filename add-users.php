@@ -79,7 +79,7 @@
                       <div class="form-group">
                           <label class="col-sm-3 control-label">Mobile Phone</label>
                           <div class="col-sm-6">
-                            <input type="text" placeholder="07x-xxx-xxx" class="form-control">
+                            <input type="number" placeholder="07x-xxx-xxx" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
@@ -100,46 +100,43 @@
                     <div data-step="3" class="step-pane">
                       <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Cost:</label>
+                          <label class="col-sm-3 control-label">Username:</label>
                           <div class="col-sm-6">
                             <input type="text" placeholder="Enter Product Name" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Local Products:</label>
+                          <label class="col-sm-3 control-label">PIN:</label>
                           <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product code" class="form-control">
+                            <input type="number" placeholder="Enter Product code" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Recommended Retail Price:</label>
+                          <label class="col-sm-3 control-label">Password:</label>
                           <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product Description" class="form-control">
+                            <input type="password" placeholder="Enter Password" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Metrics:</label>
+                          <label class="col-sm-3 control-label">Confirm Password:</label>
                           <div class="col-sm-6">
-                            <input type="text" placeholder="" class="form-control">
+                            <input type="password" placeholder="Confirm Password" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Custom Fields:</label>
+                          <label class="col-sm-3 control-label">User Type</label>
                           <div class="col-sm-6">
-                            <input type="text" placeholder="" class="form-control">
+                           <select>
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">Admin User</option>
+                            <option value="2">Manager User</option>
+                            <option value="3">Clerk User</option>
+                            <option value="4">Audit User</option>
+                            <option value="5">Agent User</option>
+                        </select>
                           </div>
                         </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Status:</label>
-                          <div class="col-sm-6">
-                             <div class="col-sm-3 xs-pt-15">
-                            <div class="switch-button">
-                              <input type="checkbox" checked="" name="swt3" id="swt3"><span>
-                                <label for="swt3"></label></span>
-                            </div>
-                          </div>
-                          </div>
-                        </div>
+                        
                         <div class="form-group">
                           <div class="col-sm-12">
                             <button data-wizard="#wizard1" class="btn btn-default btn-space wizard-previous"><i class="icon s7-angle-left"></i> Previous</button>
