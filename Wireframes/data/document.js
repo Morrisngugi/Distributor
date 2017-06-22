@@ -105,6 +105,14 @@
                     "type":"Wireframe",
                     "url":"add_unit_of_measure.html"}]},
 {
+                "pageName":"Metrics Definition",
+                "type":"Wireframe",
+                "url":"metrics_definition.html",
+                "children":[{
+                    "pageName":"Add Metrics Definition",
+                    "type":"Wireframe",
+                    "url":"add_metrics_definition.html"}]},
+{
                 "pageName":"VAT Rates",
                 "type":"Wireframe",
                 "url":"vat_rates.html",
