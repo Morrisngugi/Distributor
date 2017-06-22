@@ -10,12 +10,12 @@
 <!-- Begin Content  -->
       <div class="am-content">
         <div class="page-head">
-          <h2>Add Unit of Measure</h2>
+          <h2>Add Custom Fields</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <li><a href="#">Master Data</a></li>
             <li><a href="#">Products</a></li>
-            <li class="active">Add Unit of Measure</li>
+            <li class="active">Add Custom Fields</li>
           </ol>
         </div>
         <div class="main-content">
@@ -32,41 +32,13 @@
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Unit of Measure Short Code:</label>
+                          <label class="col-sm-3 control-label">Product Custom Field Name:</label>
                           <div class="col-sm-6">
                             <input type="text" placeholder="Unit of Measure Short Code" class="form-control">
                           </div>
                         </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Unit of Measure Short Name:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Unit of Measure Short Name" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Unit of Measure Short Quantity:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Unit of Measure Short Quantity" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Description:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Description" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Status:</label>
-                          <div class="col-sm-6">
-                             <div class="col-sm-3 xs-pt-15">
-                            <div class="switch-button">
-                              <input type="checkbox" checked="" name="swt3" id="swt3"><span>
-                                <label for="swt3"></label></span>
-                            </div>
-                          </div>
-                          </div></br>
-                           <div class="form-group">
-                          <div class="col-sm-2">
+                          <div class="form-group">
+                          <div class="col-sm-offset-2 col-sm-10">
                             <button class="btn btn-default btn-space">Cancel</button>
                             <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Complete <i class="icon s7-check"></i></button>
                           </div>
