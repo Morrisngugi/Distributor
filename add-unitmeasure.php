@@ -65,12 +65,18 @@
                             </div>
                           </div>
                           </div></br>
-                           <div class="form-group">
-                          <div class="col-sm-2">
-                            <button class="btn btn-default btn-space">Cancel</button>
-                            <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Complete <i class="icon s7-check"></i></button>
+                          <div class="form-group">
+                      <div class="row">
+                          <div class="col-md-2 col-md-offset-6">
+                              <Button class="btn btn-primary" name="btn" > Save</button>
                           </div>
-                        </div>
+
+                          <div class="col-md-2 ">
+                              <Button class="btn btn-default" name="btn" > Cancel</button>
+                          </div>
+
+                      </div>
+                    </div>
                         </div>
                        
                       </form>
