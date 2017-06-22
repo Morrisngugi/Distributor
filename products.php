@@ -29,30 +29,33 @@
             </div>
           </div>
         </aside>
-         <div class="main-content">
+        <div class="main-content">
+          <!--Tabs-->
           <div class="row">
+            <div class="col-sm-12">
+              <div class="tab-container">
+                <ul class="nav nav-tabs">
+                  <li class="active"><a href="#home" data-toggle="tab">Products</a></li>
+                  <li><a href="#profile" data-toggle="tab">Inventory</a></li>
+                </ul>
+                <div class="tab-content">
+                  <div id="home" class="tab-pane active cont">
+                     <div class="panel-body">
+                    <div class="row">
             <div class="col-sm-12">
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
-                  <div class="title">Products
                   <a href="add-product.php" class="btn btn-primary pull-right">Add</a>
-
                   </div>
-                  </br>
                   </div>
-               
               </div>
-
               <div class="widget widget-fullwidth widget-small">
-                
               <table class="table table-fw-widget">
                   <thead>
                     <tr>
-                      <th>First Name</th>
-                      <th>Last Name</th>
-                      <th>Username</th>
-                      <th>Pin</th>
-                      <th>Mobile number</th>
+                      <th>Product Code</th>
+                      <th>Product Name</th>
+                      <th>Brand</th>
                       <th>Actions</th>
                     </tr>
                   </thead>
@@ -64,8 +67,6 @@
                         Explorer 4.0
                       </td>
                       <td>Win 95+</td>
-                      <td class="center"> 4</td>
-                      
                       <td class="center"></td>
                     </tr>
                     <tr class="even gradeC">
@@ -74,38 +75,10 @@
                         Internet
                         Explorer 5.0
                       </td>
-                      <td>Win 95+</td>
-                      <td class="center">5</td>
-                      <td class="center">C</td>
+                      <td>Win 90+</td>
                       <td class="center"></td>
                     </tr>
-                    <tr class="odd gradeA">
-                      <td>Trident</td>
-                      <td>
-                        Internet
-                        Explorer 5.5
-                      </td>
-                      <td>Win 95+</td>
-                      <td class="center">5.5</td>
-                      <td class="center">A</td>
-                      <td class="center"></td>
-                    </tr>
-                    <tr class="odd gradeA">
-                      <td>Trident</td>
-                      <td>Internet Explorer 7</td>
-                      <td>Win XP SP2+</td>
-                      <td class="center">7</td>
-                      <td class="center">A</td>
-                      <td class="center"></td>
-                    </tr>
-                    <tr class="odd gradeA">
-                      <td>Trident</td>
-                      <td>Internet Explorer 7</td>
-                      <td>Win XP SP2+</td>
-                      <td class="center">7</td>
-                      <td class="center">A</td>
-                      <td class="center"></td>
-                    </tr>
+                    
                     <tr class="even gradeA">
                       <td>Trident</td>
                       <td>
@@ -113,73 +86,114 @@
                         Explorer 6
                       </td>
                       <td>Win 98+</td>
-                      <td class="center">6</td>
-                      <td class="center">A</td>
                       <td class="center"></td>
                     </tr>
                     <tr class="odd gradeA">
                       <td>Trident</td>
                       <td>Internet Explorer 7</td>
                       <td>Win XP SP2+</td>
-                      <td class="center">7</td>
-                      <td class="center">A</td>
-                      <td class="center"></td>
-                    </tr>
-                    <tr class="even gradeA">
-                      <td>Trident</td>
-                      <td>
-                        Internet
-                        Explorer 6
-                      </td>
-                      <td>Win 98+</td>
-                      <td class="center">6</td>
-                      <td class="center">A</td>
-                      <td class="center"></td>
-                    </tr>
-                    <tr class="odd gradeA">
-                      <td>Trident</td>
-                      <td>Internet Explorer 7</td>
-                      <td>Win XP SP2+</td>
-                      <td class="center">7</td>
-                      <td class="center">A</td>
-                      <td class="center"></td>
-                    </tr>
-                    <tr class="even gradeA">
-                      <td>Trident</td>
-                      <td>
-                        Internet
-                        Explorer 6
-                      </td>
-                      <td>Win 98+</td>
-                      <td class="center">6</td>
-                      <td class="center">A</td>
-                      <td class="center"></td>
-                    </tr>
-                    <tr class="odd gradeA">
-                      <td>Trident</td>
-                      <td>Internet Explorer 7</td>
-                      <td>Win XP SP2+</td>
-                      <td class="center">7</td>
-                      <td class="center">A</td>
                       <td class="center"></td>
                     </tr>
                   </tbody>
                 </table>
-               
               </div>
-             
-
+                  </div>
+                  </div></div>
+                  <div id="profile" class="tab-pane cont">
+                    <div class="panel-body">
+                  <div class="row">
+            <div class="col-sm-12">
+              <div class="widget widget-fullwidth widget-small">
+                <div class="widget-head">
+                  <a href="add-product.php" class="btn btn-primary pull-right">Add</a>
+                  </div>
+                  </div>
+              </div>
+              <div class="widget widget-fullwidth widget-small">
+              <table class="table table-fw-widget">
+                  <thead>
+                    <tr>
+                      <th>Product Name</th>
+                      <th>Product Code</th>
+                      <th>Quantity</th>
+                      <th>Available</th>
+                      <th>Status</th>
+                      <th>Actions</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr class="odd gradeX">
+                      <td> <a href="#">Product 1</a></td>
+                      <td>PROD001 </td>
+                      <td>100</td>
+                      <td>50</td>
+                      <td>Active</td>
+                      <td></td>
+                    </tr>
+                     <tr class="odd gradeX">
+                      <td> <a href="#">Product 1</a></td>
+                      <td>PROD001 </td>
+                      <td>100</td>
+                      <td>50</td>
+                      <td>Active</td>
+                      <td></td>
+                    </tr>
+                     <tr class="odd gradeX">
+                      <td> <a href="#">Product 1</a></td>
+                      <td>PROD001 </td>
+                      <td>100</td>
+                      <td>50</td>
+                      <td>Active</td>
+                      <td></td>
+                    </tr>
+                     <tr class="odd gradeX">
+                      <td> <a href="#">Product 1</a></td>
+                      <td>PROD001 </td>
+                      <td>100</td>
+                      <td>50</td>
+                      <td>Active</td>
+                      <td></td>
+                    </tr>
+                     <tr class="odd gradeX">
+                      <td> <a href="#">Product 1</a></td>
+                      <td>PROD001 </td>
+                      <td>100</td>
+                      <td>50</td>
+                      <td>Active</td>
+                      <td></td>
+                    </tr>
+                     <tr class="odd gradeX">
+                      <td> <a href="#">Product 1</a></td>
+                      <td>PROD001 </td>
+                      <td>100</td>
+                      <td>50</td>
+                      <td>Active</td>
+                      <td></td>
+                    </tr>
+                     <tr class="odd gradeX">
+                      <td> <a href="#">Product 1</a></td>
+                      <td>PROD001 </td>
+                      <td>100</td>
+                      <td>50</td>
+                      <td>Active</td>
+                      <td></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+                  </div>
+                </div>
+              </div>
             </div>
-          </div>
+          <!--Accordions-->
         </div>
 <!-- Begin Left Sidebar -->
 <?php include 'sidebar-right.php';?>
 <!-- End Left Sidebar -->
-
-
-
     </div>
-    
+	</div>
+	</div>
+	</div>
 <!-- Begin Left Sidebar -->
 <?php include 'footer.php';?>
 <!-- End Left Sidebar -->
