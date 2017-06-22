@@ -56,7 +56,7 @@
                       <label class="col-sm-3 control-label"> Date Of Birth </label>
                       <div class="col-sm-6">
                         <div data-min-view="2" data-date-format="yyyy-mm-dd" class="input-group date datetimepicker col-md-5 col-xs-7">
-                          <input size="16" type="text" value="" class="form-control"><span class="input-group-addon btn btn-primary"><i class="icon-th s7-date"></i></span>
+                          <input size="16" type="date" value="" class="form-control"><span class="input-group-addon btn btn-primary"><i class="icon-th s7-date"></i></span>
                         </div>
                       </div>
                     </div>
