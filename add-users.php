@@ -79,7 +79,9 @@
                       <div class="form-group">
                           <label class="col-sm-3 control-label">Mobile Phone</label>
                           <div class="col-sm-6">
-                            <input type="text" placeholder="07x-xxx-xxx" class="form-control">
+
+                            <input type="number" placeholder="07x-xxx-xxx" class="form-control">
+
                           </div>
                         </div>
                         <div class="form-group">
@@ -107,13 +109,17 @@
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Username:</label>
                           <div class="col-sm-6">
+
                             <input type="text" placeholder="Enter Username" class="form-control">
+
                           </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">PIN:</label>
                           <div class="col-sm-6">
+
                             <input type="number" placeholder="Enter PIN" class="form-control">
+
                           </div>
                         </div>
                         <div class="form-group">
