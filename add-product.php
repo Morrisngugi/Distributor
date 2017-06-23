@@ -10,12 +10,12 @@
 <!-- Begin Content  -->
       <div class="am-content">
         <div class="page-head">
-          <h2>Add Product</h2>
+          <h2>Add Clusters</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <li><a href="#">Master Data</a></li>
-            <li><a href="#">Products</a></li>
-            <li class="active">Add Product</li>
+            <li><a href="#">Clusters</a></li>
+            <li class="active">Add Clusters</li>
           </ol>
         </div>
         <div class="main-content">
@@ -27,6 +27,7 @@
                     <li data-step="1" class="active">Step 1<span class="chevron"></span></li>
                     <li data-step="2">Step 2<span class="chevron"></span></li>
                     <li data-step="3">Step 3<span class="chevron"></span></li>
+					<li data-step="4">Step 4<span class="chevron"></span></li>
                   </ul>
                   <div class="actions">
                     <button type="button" class="btn btn-xs btn-prev btn-default"><i class="icon s7-angle-left"></i>Prev</button>
@@ -34,57 +35,40 @@
                   </div>
                   <div class="step-content">
                     <div data-step="1" class="step-pane active">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
+
+
+                    <form action="#" data-parsley-validate="" novalidate="">
+
                         <div class="form-group no-padding">
-                          <div class="col-sm-7">
                             <h3 class="wizard-title">Product Info</h3>
-                          </div>
                         </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Product Name</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product Name" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Product Code</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product code" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Product Description</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product Description" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
+                    <div class="form-group">
+                      <label>Product Name</label>
+                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" autocomplete="off" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label>Product Code</label>
+                      <input type="text" name="email" parsley-trigger="change" required="" placeholder="" autocomplete="off" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label>Product Description</label>
+                      <input type="text-area" name="email" parsley-trigger="change" required="" placeholder="" autocomplete="off" class="form-control">
+                    </div>
+                    <div class="form-group">
                           <label class="col-sm-3 control-label">Product Image</label>
-                          <div class="col-sm-6">
                             <input type="file" placeholder="" class="form-control">
-                          </div>
                         </div>
-                        <div class="form-group">
-                          <div class="col-sm-offset-2 col-sm-10">
-                            <button class="btn btn-default btn-space">Cancel</button>
-                            <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
-                          </div>
-                        </div>
-                      </form>
+                    <div class="text-left">
+                      <button class="btn btn-space btn-default">Cancel</button>
+                     <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
+                    </div>
+                  </form>
                     </div>
                     <div data-step="2" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
-                        <div class="form-group no-padding">
-                          <div class="col-sm-7">
-                            <!--<h3 class="wizard-title">Notifications</h3>-->
-                          </div>
-                        </div>
-                        
-                      <div class="form-group">
-                      <div class = "row">
-                          <div class="col-md-1"><label class="control-label">Lot:</label></div>
-                              <div class = "col-md-2">
-                            <select>
+                      <form action="#" data-parsley-validate="" novalidate="">
+                    <div class="form-group">
+                      <label>Unit of Measure</label>
+                      <select class="form-control">
                             <option selected disabled hidden>Select</option>
                             <option value="1">One</option>
                             <option value="2">Two</option>
@@ -92,216 +76,202 @@
                             <option value="4">Four</option>
                             <option value="5">Five</option>
                         </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Packaging:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Purchase VAT Rate:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-                        </div></div>
-
-                      <div class="form-group">
-                      <div class = "row">
-                          <div class="col-md-1"><label class="control-label">Packaging:</label></div>
-                              <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Unit of Measure:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Selling VAT Rate:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-                        </div></div>
-                            <div class="form-group">
-                      <div class = "row">
-                          <div class="col-md-1"><label class="control-label">Sub-Brand:</label></div>
-                              <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Packaging Type:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Product Type:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-                        </div></div>
-
-                      <div class="form-group">
-                      <div class = "row">
-                          <div class="col-md-1"><label class="control-label">Stock Type:</label></div>
-                              <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Discount Group:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Product SKU Type:</label></div>
-                            <div class = "col-md-2">
-                            <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                        </select>
-                        </div>
-                        </div></div>
-                        
-                       
-                        <div class="form-group">
-                          <div class="col-sm-12">
-                            <button data-wizard="#wizard1" class="btn btn-default btn-space wizard-previous"><i class="icon s7-angle-left"></i> Previous</button>
-                            <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
-                          </div>
-                        </div>
-                      </form>
                     </div>
-                    <div data-step="3" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Cost:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product Name" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Local Products:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product code" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Recommended Retail Price:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Product Description" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Metrics:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Custom Fields:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Status:</label>
-                          <div class="col-sm-6">
-                             <div class="col-sm-3 xs-pt-15">
+                    <div class="form-group">
+                      <label>Product SKU Type</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Stock Type</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Purchase VAT Rate</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Selling VAT Rate</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="text-left">
+                      <button class="btn btn-space btn-default">Cancel</button>
+                     <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
+                    </div>
+                  </form>
+                    </div>
+					<div data-step="3" class="step-pane">
+                      <form action="#" data-parsley-validate="" novalidate="">
+                    <div class="form-group">
+                      <label>Packaging</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Packaging Type</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Sub-brand</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Product Type</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Discount Group</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="text-left">
+                      <button class="btn btn-space btn-default">Cancel</button>
+                     <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
+                    </div>
+                  </form>
+                    </div>
+                    <div data-step="4" class="step-pane">
+                      
+                   
+                      <form action="#" data-parsley-validate="" novalidate="">
+                    <div class="form-group">
+                      <label>Unit of Measure</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Product SKU Type</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Stock Type</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Purchase VAT Rate</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                      <label>Selling VAT Rate</label>
+                      <select class="form-control">
+                            <option selected disabled hidden>Select</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                            <option value="4">Four</option>
+                            <option value="5">Five</option>
+                        </select>
+                    </div>
+					<div class="form-group">
+                          <label class="col-sm-1 control-label">Status:</label>
                             <div class="switch-button">
                               <input type="checkbox" checked="" name="swt3" id="swt3"><span>
                                 <label for="swt3"></label></span>
                             </div>
-                          </div>
-                          </div>
                         </div>
-                        <div class="form-group">
-                          <div class="col-sm-12">
-                            <button data-wizard="#wizard1" class="btn btn-default btn-space wizard-previous"><i class="icon s7-angle-left"></i> Previous</button>
-                            <button data-wizard="#wizard1" class="btn btn-success btn-space wizard-next"><i class="icon s7-check"></i> Complete</button>
-                          </div>
-                        </div>
-                      </form>
+                    <div class="text-left">
+                     <button data-wizard="#wizard1" class="btn btn-default btn-space wizard-previous"><i class="icon s7-angle-left"></i> Previous</button>
+                   <button data-wizard="#wizard1" class="btn btn-success btn-space wizard-next"><i class="icon s7-check"></i> Complete</button>
                     </div>
-                  </div>
+                  </form>
+                </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
+	  
+	  
+	  
+	  
       <nav class="am-right-sidebar">
         <div class="sb-content">
           <div class="user-info"><img src="assets/img/avatar.jpg"><span class="name">Samantha Amaretti<span class="status"></span></span><span class="position">Art Director</span></div>
