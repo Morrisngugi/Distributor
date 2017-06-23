@@ -11,7 +11,7 @@
               <div class="content">
                 <div class="aside-header">
                   <button data-target=".aside-nav" data-toggle="collapse" type="button" class="navbar-toggle"><span class="icon s7-angle-down"></span></button>
-                  <h2>Packaging</h2>
+                  <h2>Unit of Measure</h2>
                 </div>
               </div>
               <div class="aside-nav collapse">
@@ -20,9 +20,9 @@
                   <li><a href="brand.php"><i class="icon s7-mail"></i> Brands</a></li>
                   <li><a href="sub-brands.php"><i class="icon s7-portfolio"></i> Sub-Brands</a></li>
                   <li><a href="product-type.php"><i class="icon s7-file"></i> Product Type</a></li>
-                  <li class="active"><a href="Packaging.php"><span class="label label-primary">6</span><i class="icon s7-star"></i> Packaging</a></li>
+                  <li><a href="Packaging.php"><i class="icon s7-star"></i> Packaging</a></li>
                   <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Type</a></li>
-                  <li><a href="unit-of-measure.php"><i class="icon s7-trash"></i>Unit of Measure</a></li>
+                  <li  class="active"><a href="unit-of-measure.php"><span class="label label-primary">6</span><i class="icon s7-trash"></i>Unit of Measure</a></li>
                   <li><a href="vat-rates.php"><i class="icon s7-trash"></i>VAT Rates</a></li>
                   <li><a href="custom-fields.php"><i class="icon s7-trash"></i> Custom Fields</a></li>
                   <li><a href="metrics-definition.php"><i class="icon s7-trash"></i> Metrics Definition</a></li>
@@ -36,8 +36,8 @@
             <div class="col-sm-12">
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
-                  <div class="title">Packaging
-                  <a href="add-packaging.php" class="btn btn-primary pull-right">Add</a>
+                  <div class="title">Unit of Measure
+                  <a href="add-packaging-type.php" class="btn btn-primary pull-right">Add</a>
                   </div>
                   </br>
                   </div>
@@ -49,8 +49,8 @@
               <table class="table table-fw-widget">
                  <thead>
                     <tr>
-                      <th>Packaging Code</th>
-                      <th>Packaging Name</th>
+                      <th>Unit of Measure Code</th>
+                      <th>Unit of Measure Name</th>
                       <th>Description</th>
                       <th>Action</th>
                     </tr>
@@ -85,7 +85,7 @@
                       </td>
                       <td>Win 95+</td>
                       <td class="center">5.5</td>
-                       
+                      
                     </tr>
                     <tr class="even gradeA">
                       <td>Trident</td>

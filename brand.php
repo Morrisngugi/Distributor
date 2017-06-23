@@ -17,12 +17,15 @@
               <div class="aside-nav collapse">
                <ul class="nav">
                   <li><a href="products.php"><i class="icon s7-drawer"></i> Products</a></li>
-                  <li class="active"><a href="brand.php"><span class="label label-primary">6</span><i class="icon s7-mail"></i> Brands</a></li>
+                  <li  class="active"><a href="brand.php"><span class="label label-primary">6</span><i class="icon s7-mail"></i> Brands</a></li>
                   <li><a href="sub-brands.php"><i class="icon s7-portfolio"></i> Sub-Brands</a></li>
-                  <li><a href="product-type.php"><i class="icon s7-file"></i> Product Types</a></li>
+                  <li><a href="product-type.php"><i class="icon s7-file"></i> Product Type</a></li>
                   <li><a href="Packaging.php"><i class="icon s7-star"></i> Packaging</a></li>
-                  <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Types</a></li>
-                  <li><a href="vat-rates.php"><i class="icon s7-trash"></i> VAT Rates</a></li>
+                  <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Type</a></li>
+                  <li><a href="unit-of-measure.php"><i class="icon s7-trash"></i>Unit of Measure</a></li>
+                  <li><a href="vat-rates.php"><i class="icon s7-trash"></i>VAT Rates</a></li>
+                  <li><a href="custom-fields"><i class="icon s7-trash"></i> Custom Fields</a></li>
+                  <li><a href="metrics-definition.php"><i class="icon s7-trash"></i> Metrics Definition</a></li>
                 </ul>
               </div>
             </div>
@@ -43,9 +46,8 @@
               <table class="table table-fw-widget">
                   <thead>
                     <tr>
-                      <th>ID</th>
-                      <th>Code</th>
-                      <th>Name</th>
+                      <th>Brand Code</th>
+                      <th>Brand Name</th>
                       <th>Description</th>
                       <th>Action</th>
                     </tr>
@@ -56,21 +58,29 @@
                       <td>Internet Explorer 4.0 </td>
                       <td>Win 95+</td>
                       <td class="center"> 4</td>
-                      <td class="center"></td>
+                      
                     </tr>
                      <tr class="odd gradeX">
                       <td>Trident</td>
                       <td>Internet Explorer 4.0 </td>
                       <td>Win 95+</td>
                       <td class="center"> 4</td>
-                      <td class="center"></td>
+                      
                     </tr>
                      <tr class="odd gradeX">
                       <td>Trident</td>
                       <td>Internet Explorer 4.0 </td>
                       <td>Win 95+</td>
                       <td class="center"> 4</td>
-                      <td class="center"></td>
+                      
+                    </tr>
+                     </tr>
+                     <tr class="odd gradeX">
+                      <td>Trident</td>
+                      <td>Internet Explorer 4.0 </td>
+                      <td>Win 95+</td>
+                      <td class="center"> 4</td>
+                      
                     </tr>
                   </tbody>
                 </table>

@@ -16,17 +16,17 @@
               </ul>
             </li>
             <li class="parent"><a href="#"><i class="icon s7-graph"></i><span>Transactions</span></a>
-              <ul class="sub-menu">
+              <!-- <ul class="sub-menu">
                 <li><a href="charts-flot.php">Flot</a>
                 </li>
                 <li><a href="charts-morris.php">Morris.js</a>
                 </li>
                 <li><a href="charts-sparkline.php">Sparklines</a>
                 </li>
-              </ul>
+              </ul> -->
             </li>
             <li class="parent"><a href="#"><i class="icon s7-ribbon"></i><span>Settings</span></a>
-              <ul class="sub-menu">
+              <!-- <ul class="sub-menu">
                 <li><a href="form-elements.php">Elements</a>
                 </li>
                 <li><a href="form-validation.php">Validation</a>
@@ -41,15 +41,15 @@
                 </li>
                 <li><a href="form-upload.php">Multi Upload</a>
                 </li>
-              </ul>
+              </ul> -->
             </li>
             <li class="parent"><a href="#"><i class="icon s7-box2"></i><span>Reports</span></a>
-              <ul class="sub-menu">
+             <!--  <ul class="sub-menu">
                 <li><a href="tables-general.php">General</a>
                 </li>
                 <li><a href="tables-datatables.php">Data Tables</a>
                 </li>
-              </ul>
+              </ul> -->
             </li>
               </ul>
             </li>
