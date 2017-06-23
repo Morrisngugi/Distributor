@@ -10,12 +10,12 @@
 <!-- Begin Content  -->
       <div class="am-content">
         <div class="page-head">
-          <h2>Add Users</h2>
+          <h2>Add Unit of Measure</h2>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
             <li><a href="#">Master Data</a></li>
-            <li><a href="#">Users</a></li>
-            <li class="active">Add Users</li>
+            <li><a href="#">Products</a></li>
+            <li class="active">Add Unit of Measure</li>
           </ol>
         </div>
         <div class="main-content">
@@ -23,131 +23,62 @@
             <div class="col-md-12 fuelux">
               <div class="block-wizard panel panel-default">
                 <div id="wizard1" class="wizard wizard-ux">
-                  <ul class="steps">
-                    <li data-step="1" class="active">Step 1<span class="chevron"></span></li>
-                    <li data-step="2">Step 2<span class="chevron"></span></li>
-                    <li data-step="3">Step 3<span class="chevron"></span></li>
-                  </ul>
-                  <div class="actions">
-                    <button type="button" class="btn btn-xs btn-prev btn-default"><i class="icon s7-angle-left"></i>Prev</button>
-                    <button type="button" data-last="Finish" class="btn btn-xs btn-next btn-default">Next<i class="icon s7-angle-right"></i></button>
-                  </div>
-                  <div class="step-content">
-                    <div data-step="1" class="step-pane active">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
-                        <div class="form-group no-padding">
-                          <div class="col-sm-7">
-                            <h3 class="wizard-title">User Info</h3>
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">First Name</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter First Name" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Surname</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Surname" class="form-control">
-                          </div>
-                        </div>
-                         <div class="form-group">
-                      <label class="col-sm-3 control-label"> Date Of Birth </label>
-                      <div class="col-sm-6">
-                        <div data-min-view="2" data-date-format="yyyy-mm-dd" class="input-group date datetimepicker col-md-5 col-xs-7">
-                          <input size="16" type="date" value="" class="form-control"><span class="input-group-addon btn btn-primary"><i class="icon-th s7-date"></i></span>
-                        </div>
-                      </div>
-                    </div>
-                        <div class="form-group">
-                          <div class="col-sm-offset-2 col-sm-10">
-                            <button class="btn btn-default btn-space">Cancel</button>
-                            <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
-                          </div>
-                        </div>
-                      </form>
-                    </div>
-                    <div data-step="2" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
-                        <div class="form-group no-padding">
-                          <div class="col-sm-7">
-                            <h3 class="wizard-title">Contact Information</h3>
-                          </div>
-                        </div>
-                        
-                      <div class="form-group">
-                          <label class="col-sm-3 control-label">Mobile Phone</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="07x-xxx-xxx" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Email Address</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="username@address.com" class="form-control">
-                          </div>
-                        </div>
 
-                        <div class="form-group">
-                          <div class="col-sm-12">
-                            <button data-wizard="#wizard1" class="btn btn-default btn-space wizard-previous"><i class="icon s7-angle-left"></i> Previous</button>
-                            <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
-                          </div>
-                        </div>
-                      </form>
-                    </div>
                     <div data-step="3" class="step-pane">
                       <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
-                        <div class="form-group no-padding">
+                         <div class="form-group no-padding">
                           <div class="col-sm-7">
-                            <h3 class="wizard-title">Account Information</h3>
+                            <!--<h3 class="wizard-title">Unit Of Measure Info</h3>-->
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Username:</label>
+                          <label class="col-sm-3 control-label">Unit of Measure Short Code:</label>
                           <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Username" class="form-control">
+                            <input type="text" placeholder="Unit of Measure Short Code" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">PIN:</label>
+                          <label class="col-sm-3 control-label">Unit of Measure Short Name:</label>
                           <div class="col-sm-6">
-                            <input type="number" placeholder="Enter PIN" class="form-control">
+                            <input type="text" placeholder="Unit of Measure Short Name" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Password:</label>
+                          <label class="col-sm-3 control-label">Unit of Measure Short Quantity:</label>
                           <div class="col-sm-6">
-                            <input type="password" placeholder="Enter Password" class="form-control">
+                            <input type="text" placeholder="Unit of Measure Short Quantity" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">Confirm Password:</label>
+                          <label class="col-sm-3 control-label">Description:</label>
                           <div class="col-sm-6">
-                            <input type="password" placeholder="Confirm Password" class="form-control">
+                            <input type="text" placeholder="Enter Description" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
-                          <label class="col-sm-3 control-label">User Type</label>
+                          <label class="col-sm-3 control-label">Status:</label>
                           <div class="col-sm-6">
-                           <select>
-                            <option selected disabled hidden>Select</option>
-                            <option value="1">Admin User</option>
-                            <option value="2">Manager User</option>
-                            <option value="3">Clerk User</option>
-                            <option value="4">Audit User</option>
-                            <option value="5">Agent User</option>
-                        </select>
+                             <div class="col-sm-3 xs-pt-15">
+                            <div class="switch-button">
+                              <input type="checkbox" checked="" name="swt3" id="swt3"><span>
+                                <label for="swt3"></label></span>
+                            </div>
                           </div>
-                        </div>
-                        
-                        <div class="form-group">
-                          <div class="col-sm-12">
-                            <button data-wizard="#wizard1" class="btn btn-default btn-space wizard-previous"><i class="icon s7-angle-left"></i> Previous</button>
-                            <button data-wizard="#wizard1" class="btn btn-success btn-space wizard-next"><i class="icon s7-check"></i> Complete</button>
+                          </div></br>
+                          <div class="form-group">
+                      <div class="row">
+                          <div class="col-md-2 col-md-offset-6">
+                              <Button class="btn btn-primary" name="btn" > Save</button>
                           </div>
+
+                          <div class="col-md-2 ">
+                              <Button class="btn btn-default" name="btn" > Cancel</button>
+                          </div>
+
+                      </div>
+                    </div>
                         </div>
+                       
                       </form>
                     </div>
                   </div>
