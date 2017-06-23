@@ -35,10 +35,7 @@
                   </div>
                   <div class="step-content">
                     <div data-step="1" class="step-pane active">
-
-
                     <form action="#" data-parsley-validate="" novalidate="">
-
                         <div class="form-group no-padding">
                             <h3 class="wizard-title">Product Info</h3>
                         </div>
@@ -191,8 +188,6 @@
                   </form>
                     </div>
                     <div data-step="4" class="step-pane">
-                      
-                   
                       <form action="#" data-parsley-validate="" novalidate="">
                     <div class="form-group">
                       <label>Unit of Measure</label>

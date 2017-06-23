@@ -33,11 +33,11 @@
                     </div>
                     <div class="form-group">
                       <label>Name</label>
-                      <input type="email" name="email" parsley-trigger="change" required="" placeholder="Enter email" autocomplete="off" class="form-control">
+                      <input type="text" name="email" parsley-trigger="change" required="" placeholder="Enter email" autocomplete="off" class="form-control">
                     </div>
                     <div class="form-group">
                       <label>Description</label>
-                      <input type="email" name="email" parsley-trigger="change" required="" placeholder="Enter email" autocomplete="off" class="form-control">
+                      <input type="text" name="email" parsley-trigger="change" required="" placeholder="Enter email" autocomplete="off" class="form-control">
                     </div>
                     <div class="text-left">
                       <button type="submit" class="btn btn-space btn-primary">Submit</button>

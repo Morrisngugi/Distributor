@@ -29,44 +29,23 @@
               <div class="panel panel-defaultt">
                 
                 <div class="panel-body">
-                  <form action="#" novalidate="" class="form-horizontal group-border-dashed">
+                  <form action="#" data-parsley-validate="" novalidate="">
                     <div class="form-group">
-                      <label class="col-sm-3 control-label">Code</label>
-                      <div class="col-sm-6">
-                        <input type="text" data-mask="date" placeholder="Enter First Name" class="form-control">
-                      </div>
+                      <label>Code</label>
+                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="" autocomplete="off" class="form-control">
                     </div>
                     <div class="form-group">
-                      <label class="col-sm-3 control-label">Name</label>
-                      <div class="col-sm-6">
-                        <input type="text" data-mask="date" placeholder=" Enter Surname" class="form-control">
-                      </div>
+                      <label>Name</label>
+                      <input type="text" name="email" parsley-trigger="change" required="" placeholder="" autocomplete="off" class="form-control">
                     </div>
                     <div class="form-group">
-                      <label class="col-sm-3 control-label">Brand</label>
-                      <div class="col-sm-6">
-                        <input type="text" data-mask="phone" placeholder="254" class="form-control">
-                      </div>
+                      <label>Description</label>
+                      <input type="text" name="email" parsley-trigger="change" required="" placeholder="" autocomplete="off" class="form-control">
                     </div>
-                    <div class="form-group">
-                      <label class="col-sm-3 control-label">Description</label>
-                      <div class="col-sm-6">
-                        <input type="date" data-mask="Calender" placeholder="" class="form-control">
-                      </div>
+                    <div class="text-left">
+                      <button type="submit" class="btn btn-space btn-primary">Submit</button>
+                      <button class="btn btn-space btn-default">Cancel</button>
                     </div>
-                    <div class="form-group">
-                      <div class="row">
-                          <div class="col-md-1 col-md-offset-6">
-                              <Button class="btn-Success" name="btn" > Save</button>
-                          </div>
-
-                          <div class="col-md-2 ">
-                              <Button class="btn-Default" name="btn" > Cancel</button>
-                          </div>
-
-                      </div>
-                    </div>
-                    
                   </form>
                 </div>
               </div>

@@ -34,61 +34,43 @@
                   </div>
                   <div class="step-content">
                     <div data-step="1" class="step-pane active">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
+
+                       <form action="#" data-parsley-validate="" novalidate="">
                         <div class="form-group no-padding">
-                          <div class="col-sm-7">
                             <h3 class="wizard-title">User Info</h3>
-                          </div>
                         </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">First Name</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter First Name" class="form-control">
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Surname</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Enter Surname" class="form-control">
-                          </div>
-                        </div>
-                         <div class="form-group">
-                      <label class="col-sm-3 control-label"> Date Of Birth </label>
-                      <div class="col-sm-6">
-                        <div data-min-view="2" data-date-format="yyyy-mm-dd" class="input-group date datetimepicker col-md-5 col-xs-7">
-                          <input size="16" type="date" value="" class="form-control"><span class="input-group-addon btn btn-primary"><i class="icon-th s7-date"></i></span>
-                        </div>
-                      </div>
+                    <div class="form-group">
+                       <label class="col-sm-3 control-label">First Name</label>
+                      <input type="text" name="nick" parsley-trigger="change" required="" placeholder="Enter First Name" autocomplete="off" class="form-control">
                     </div>
-                        <div class="form-group">
-                          <div class="col-sm-offset-2 col-sm-10">
-                            <button class="btn btn-default btn-space">Cancel</button>
-                            <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
-                          </div>
-                        </div>
-                      </form>
+                    <div class="form-group">
+                       <label class="col-sm-3 control-label">Surname</label>
+                      <input type="text" name="email" parsley-trigger="change" required="" placeholder=" Enter Username" autocomplete="off" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label>Date of Birth</label>
+                      <input type="date" value="" class="form-control">
+                    </div>
+                    <div class="text-left">
+                      <button class="btn btn-space btn-default">Cancel</button>
+                     <button data-wizard="#wizard1" class="btn btn-primary btn-space wizard-next">Next Step <i class="icon s7-angle-right"></i></button>
+                    </div>
+                  </form>
                     </div>
                     <div data-step="2" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
+                      <form action="#" data-parsley-validate="" novalidate="">
                         <div class="form-group no-padding">
-                          <div class="col-sm-7">
+                         
                             <h3 class="wizard-title">Contact Information</h3>
                           </div>
-                        </div>
-                        
                       <div class="form-group">
                           <label class="col-sm-3 control-label">Mobile Phone</label>
-                          <div class="col-sm-6">
                             <input type="text" placeholder="07x-xxx-xxx" class="form-control">
-                          </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Email Address</label>
-                          <div class="col-sm-6">
                             <input type="text" placeholder="username@address.com" class="form-control">
-                          </div>
                         </div>
-
                         <div class="form-group">
                           <div class="col-sm-12">
                             <button data-wizard="#wizard1" class="btn btn-default btn-space wizard-previous"><i class="icon s7-angle-left"></i> Previous</button>
@@ -98,40 +80,29 @@
                       </form>
                     </div>
                     <div data-step="3" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
+                      <form action="#" data-parsley-validate="" novalidate="">
                         <div class="form-group no-padding">
-                          <div class="col-sm-7">
                             <h3 class="wizard-title">Account Information</h3>
-                          </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Username:</label>
-                          <div class="col-sm-6">
                             <input type="text" placeholder="Enter Username" class="form-control">
-                          </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">PIN:</label>
-                          <div class="col-sm-6">
                             <input type="number" placeholder="Enter PIN" class="form-control">
-                          </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Password:</label>
-                          <div class="col-sm-6">
                             <input type="password" placeholder="Enter Password" class="form-control">
-                          </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Confirm Password:</label>
-                          <div class="col-sm-6">
                             <input type="password" placeholder="Confirm Password" class="form-control">
-                          </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">User Type</label>
-                          <div class="col-sm-6">
-                           <select>
+                           <select class="form-control">
                             <option selected disabled hidden>Select</option>
                             <option value="1">Admin User</option>
                             <option value="2">Manager User</option>
@@ -139,7 +110,6 @@
                             <option value="4">Audit User</option>
                             <option value="5">Agent User</option>
                         </select>
-                          </div>
                         </div>
                         
                         <div class="form-group">

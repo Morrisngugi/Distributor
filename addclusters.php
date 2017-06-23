@@ -34,35 +34,25 @@
                   </div>
                   <div class="step-content">
                     <div data-step="1" class="step-pane active">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
+                      <form action="#" data-parsley-validate="" novalidate="">
                         <div class="form-group no-padding">
-                          <div class="col-sm-7">
                             <h3 class="wizard-title">Product Info</h3>
                           </div>
-                        </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Product Name</label>
-                          <div class="col-sm-6">
                             <input type="text" placeholder="Enter Product Name" class="form-control">
                           </div>
-                        </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Product Code</label>
-                          <div class="col-sm-6">
                             <input type="text" placeholder="Enter Product code" class="form-control">
                           </div>
-                        </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Product Description</label>
-                          <div class="col-sm-6">
                             <input type="text" placeholder="Enter Product Description" class="form-control">
                           </div>
-                        </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Product Image</label>
-                          <div class="col-sm-6">
                             <input type="file" placeholder="" class="form-control">
-                          </div>
                         </div>
                         <div class="form-group">
                           <div class="col-sm-offset-2 col-sm-10">
@@ -73,18 +63,15 @@
                       </form>
                     </div>
                     <div data-step="2" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
+                      <form action="#" data-parsley-validate="" novalidate="">
                         <div class="form-group no-padding">
                           <div class="col-sm-7">
                             <!--<h3 class="wizard-title">Notifications</h3>-->
                           </div>
                         </div>
-                        
                       <div class="form-group">
-                      <div class = "row">
-                          <div class="col-md-1"><label class="control-label">Lot:</label></div>
-                              <div class = "col-md-2">
-                            <select>
+                          <label class="control-label">Lot:</label>
+                            <select class="form-control">
                             <option selected disabled hidden>Select</option>
                             <option value="1">One</option>
                             <option value="2">Two</option>
@@ -93,10 +80,9 @@
                             <option value="5">Five</option>
                         </select>
                         </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Packaging:</label></div>
-                            <div class = "col-md-2">
-                            <select>
+                        <div class="form-group">
+                            <label class="control-label">Packaging:</label>
+                            <select class="form-control">
                             <option selected disabled hidden>Select</option>
                             <option value="1">One</option>
                             <option value="2">Two</option>
@@ -105,10 +91,9 @@
                             <option value="5">Five</option>
                         </select>
                         </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Purchase VAT Rate:</label></div>
-                            <div class = "col-md-2">
-                            <select>
+                        <div class="form-group">
+						            <label class="control-label">Purchase VAT Rate:</label>
+                           <select class="form-control">
                             <option selected disabled hidden>Select</option>
                             <option value="1">One</option>
                             <option value="2">Two</option>
@@ -117,13 +102,9 @@
                             <option value="5">Five</option>
                         </select>
                         </div>
-                        </div></div>
-
                       <div class="form-group">
-                      <div class = "row">
-                          <div class="col-md-1"><label class="control-label">Packaging:</label></div>
-                              <div class = "col-md-2">
-                            <select>
+                     <label class="control-label">Packaging:</label>
+                            <select class="form-control">
                             <option selected disabled hidden>Select</option>
                             <option value="1">One</option>
                             <option value="2">Two</option>
@@ -132,10 +113,9 @@
                             <option value="5">Five</option>
                         </select>
                         </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Unit of Measure:</label></div>
-                            <div class = "col-md-2">
-                            <select>
+                          <div class="form-group">
+                            <label class="control-label">Unit of Measure:</label>
+                            <select class="form-control">
                             <option selected disabled hidden>Select</option>
                             <option value="1">One</option>
                             <option value="2">Two</option>
@@ -144,9 +124,8 @@
                             <option value="5">Five</option>
                         </select>
                         </div>
-						        <div class="col-md-2">
-                            <label class="control-label">Selling VAT Rate:</label></div>
-                            <div class = "col-md-2">
+						        <div class="form-group">
+                            <label class="control-label">Selling VAT Rate:</label>                            <div class = "col-md-2">
                             <select>
                             <option selected disabled hidden>Select</option>
                             <option value="1">One</option>
@@ -245,40 +224,40 @@
                       </form>
                     </div>
                     <div data-step="3" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
+                     <form action="#" data-parsley-validate="" novalidate="">
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Cost:</label>
-                          <div class="col-sm-6">
+                          
                             <input type="text" placeholder="Enter Product Name" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Local Products:</label>
-                          <div class="col-sm-6">
+                          
                             <input type="text" placeholder="Enter Product code" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Recommended Retail Price:</label>
-                          <div class="col-sm-6">
+                          
                             <input type="text" placeholder="Enter Product Description" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Metrics:</label>
-                          <div class="col-sm-6">
+                          
                             <input type="text" placeholder="" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Custom Fields:</label>
-                          <div class="col-sm-6">
+                          
                             <input type="text" placeholder="" class="form-control">
                           </div>
                         </div>
                         <div class="form-group">
                           <label class="col-sm-3 control-label">Status:</label>
-                          <div class="col-sm-6">
+                          
                              <div class="col-sm-3 xs-pt-15">
                             <div class="switch-button">
                               <input type="checkbox" checked="" name="swt3" id="swt3"><span>

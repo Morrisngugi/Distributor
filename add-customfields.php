@@ -25,33 +25,17 @@
                 <div id="wizard1" class="wizard wizard-ux">
 
                     <div data-step="3" class="step-pane">
-                      <form action="#" data-parsley-namespace="data-parsley-" data-parsley-validate="" novalidate="" class="form-horizontal group-border-dashed">
-                         <div class="form-group no-padding">
-                          <div class="col-sm-7">
-                            <!--<h3 class="wizard-title">Unit Of Measure Info</h3>-->
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-3 control-label">Product Custom Field Name:</label>
-                          <div class="col-sm-6">
-                            <input type="text" placeholder="Unit of Measure Short Code" class="form-control">
-                          </div>
-                        </div>
-                         <div class="form-group">
-                      <div class="row">
-                          <div class="col-md-2 col-md-offset-6">
-                              <Button class="btn btn-primary" name="btn" > Save</button>
-                          </div>
 
-                          <div class="col-md-2 ">
-                              <Button class="btn btn-default" name="btn" > Cancel</button>
-                          </div>
-
-                      </div>
+                      <form action="#" data-parsley-validate="" novalidate="">
+                    <div class="form-group">
+                      <label>Product Custom Field Name:</label>
+                      <input type="text" name="nick" parsley-trigger="change" required="Unit of Measure Short CodeUnit of Measure Short Code" placeholder="Enter user name" autocomplete="off" class="form-control">
                     </div>
-                        </div>
-                       
-                      </form>
+                    <div class="text-left">
+                      <button type="submit" class="btn btn-space btn-primary">Submit</button>
+                      <button class="btn btn-space btn-default">Cancel</button>
+                    </div>
+                  </form>
                     </div>
                   </div>
                 </div>
