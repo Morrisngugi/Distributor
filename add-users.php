@@ -127,6 +127,18 @@
           </div>
         </div>
       </div>
+      <!-- End Content -->
+
+
+<!-- Right Sidebar -->
+<?php include 'sidebar-right.php';?>
+<!-- End Right Sidebar -->
+
+</div>
+
+<!-- Begin Footer -->
+<?php include 'footer.php';?>
+<!-- End Footer -->
       <nav class="am-right-sidebar">
         <div class="sb-content">
           <div class="user-info"><img src="assets/img/avatar.jpg"><span class="name">Samantha Amaretti<span class="status"></span></span><span class="position">Art Director</span></div>
