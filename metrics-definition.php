@@ -37,7 +37,7 @@
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
                   <div class="title">Metrics Definition
-                  <a href="add-brand.php" class="btn btn-primary pull-right">Add</a>
+                  <a href="add-customfields.php" class="btn btn-primary pull-right">Add</a>
                   </div>
                   </br>
                   </div>

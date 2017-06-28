@@ -24,9 +24,9 @@
                   <li ><a href="Packaging.php"><i class="icon s7-star"></i> Packaging</a></li>
                   <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Type</a></li>
                   <li><a href="UnitMeasure.php"><i class="icon s7-mail"></i> Unit of Measure</a></li>
-                  <li><a href="vat-rates.php"><i class="icon s7-trash"></i>VAT Rates</a></li>
-                  <li><a href="custom-fields.php"><i class="icon s7-trash"></i> Custom Fields</a></li>
-                  <li><a href="metrics-definition.php"><i class="icon s7-trash"></i> Metrics Definition</a></li>
+                  <li><a href="vat-rates.php"><i class="icon s7-settings"></i>VAT Rates</a></li>
+                  <li><a href="custom-fields.php"><i class="icon s7-users"></i> Custom Fields</a></li>
+                  <li><a href="metrics-definition.php"><i class="icon s7-power"></i> Metrics Definition</a></li>
                 </ul>
               </div>
             </div>
@@ -109,10 +109,6 @@
                       <td>Internet Explorer 7</td>
                       <td>Win XP SP2+</td>
                       <td class="center">7</td>
-                       
-
-                      <td>Win 90+</td>
-                      <td class="center"></td>
 
                      </tr>
                     <tr class="odd gradeA">

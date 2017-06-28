@@ -37,7 +37,7 @@
               <div class="widget widget-fullwidth widget-small">
                 <div class="widget-head">
                   <div class="title">Unit of Measure
-                  <a href="add-packaging-type.php" class="btn btn-primary pull-right">Add</a>
+                  <a href="add-unitmeasure.php" class="btn btn-primary pull-right">Add</a>
                   </div>
                   </br>
                   </div>

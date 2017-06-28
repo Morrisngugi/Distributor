@@ -29,8 +29,15 @@
                       <form action="#" data-parsley-validate="" novalidate="">
                     <div class="form-group">
                       <label>Product Custom Field Name:</label>
-                      <input type="text" name="nick" parsley-trigger="change" required="Unit of Measure Short CodeUnit of Measure Short Code" placeholder="Enter user name" autocomplete="off" class="form-control">
+                      <input type="text" name="nick" parsley-trigger="change" required="Unit of Measure Short CodeUnit of Measure Short Code" placeholder="Enter Custom Field Name" autocomplete="off" class="form-control">
                     </div>
+                     <div class="form-group">
+                          <label class="col-sm-1 control-label">Status:</label>
+                            <div class="switch-button">
+                              <input type="checkbox" checked="" name="swt3" id="swt3"><span>
+                                <label for="swt3"></label></span>
+                            </div>
+                          </div>
                     <div class="text-left">
                       <button type="submit" class="btn btn-space btn-primary">Submit</button>
                       <button class="btn btn-space btn-default">Cancel</button>
