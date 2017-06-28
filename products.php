@@ -22,8 +22,8 @@
                   <li><a href="sub-brands.php"><i class="icon s7-portfolio"></i> Sub-Brands</a></li>
                   <li><a href="product-type.php"><i class="icon s7-file"></i> Product Type</a></li>
                   <li ><a href="Packaging.php"><i class="icon s7-star"></i> Packaging</a></li>
-                  <li><a href="packaging-type.php"><i class="icon s7-trash"></i> Packaging Type</a></li>
-                  <li><a href="UnitMeasure.php"><i class="icon s7-mail"></i> Unit of Measure</a></li>
+                  <li><a href="packaging-type.php"><i class="icon s7-car"></i> Packaging Type</a></li>
+                  <li><a href="UnitMeasure.php"><i class="icon s7-search"></i> Unit of Measure</a></li>
                   <li><a href="vat-rates.php"><i class="icon s7-settings"></i>VAT Rates</a></li>
                   <li><a href="custom-fields.php"><i class="icon s7-users"></i> Custom Fields</a></li>
                   <li><a href="metrics-definition.php"><i class="icon s7-power"></i> Metrics Definition</a></li>
